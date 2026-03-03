@@ -459,9 +459,6 @@ https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyDocumentaries.it.png" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyNature.it" tvg-name="SKY NATURE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyNature.it.png" channel="SkyNature.it" group-title="Documentary",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyArte.it.png" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -476,9 +473,6 @@ https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyInvestigation.it.png" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
@@ -615,9 +609,6 @@ https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportUno.it.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN.it" tvg-name="DAZN" tvg-logo="" channel="DAZN.it" group-title="Sport",DAZN
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DAZN1.it.png" channel="DAZN1.it" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -674,6 +665,9 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="" channel="PESCA" group-title="Documentary",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
+https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Blaze.it.png" channel="Blaze.it" group-title="Intrattenimento",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
@@ -783,6 +777,9 @@ https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="M2O" tvg-name="M2O" tvg-logo="" channel="M2O" group-title="Music",M2O
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MTV.it.png" channel="MTV.it" group-title="Music",MTV
+https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" tvg-logo="" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -812,6 +809,9 @@ https://vavoo.to/vavoo-iptv/play/3911047486fb5f634d6343
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Euronews.it.png" channel="Euronews.it" group-title="News",EURONEWS
 https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="France24.it" tvg-name="FRANCE 24" tvg-logo="" channel="France24.it" group-title="News",FRANCE 24
+https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" tvg-logo="" channel="TG NORBA 24" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
