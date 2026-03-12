@@ -642,10 +642,10 @@ https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="CACCIA E PESCA" tvg-logo="" channel="CacciaPesca.it" group-title="Documentary",CACCIA E PESCA
 https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="" channel="DiscoveryChannel.it" group-title="Documentary",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="" channel="Discovery.Channel.it" group-title="Documentary",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="" channel="DiscoveryChannel.it" group-title="Documentary",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="" channel="Discovery.Channel.it" group-title="Documentary",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" tvg-logo="" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
