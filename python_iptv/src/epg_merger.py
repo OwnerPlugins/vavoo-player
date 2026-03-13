@@ -25,8 +25,10 @@ EPG_SOURCES = [
     EPGSource(name="CH_backup", url="https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz", priority=3),
 ]
 
-# def _is_ch_source(name: str) -> bool:
-#    return name.startswith("CH_")
+# Channel IDs actually used in the playlist
+PLAYLIST_CHANNEL_IDS = set(EPG_MAP.values())
+# Also include RSI IDs as they appear in CH EPG sources (different from .it suffixes)
+PLAYLIST_CHANNEL_IDS.update({"RSI.La.1.ch", "RSI.LA.2.ch", "RSI La 1.ch", "RSI La 2.ch"})
 
 
 def _is_ch_source(name: str) -> bool:
@@ -57,10 +59,6 @@ def merge_epg(output_path: str) -> bool:
     
     Returns True if at least one source was merged successfully.
     """
-    # Dynamic channel IDs from current EPG_MAP
-    playlist_ids = set(EPG_MAP.values())
-    playlist_ids.update({"RSI.La.1.ch", "RSI.LA.2.ch", "RSI La 1.ch", "RSI La 2.ch"})
-    
     downloader = EPGDownloader()
     cache = EPGCache()
 
@@ -69,7 +67,7 @@ def merge_epg(output_path: str) -> bool:
 
     sources_loaded = 0
 
-    logging.info(f"Filtering EPG to {len(playlist_ids)} channel IDs from playlist")
+    logging.info(f"Filtering EPG to {len(PLAYLIST_CHANNEL_IDS)} channel IDs from playlist")
 
     for source in EPG_SOURCES:
         logging.info(f"Processing EPG source: {source.name}...")
@@ -95,7 +93,7 @@ def merge_epg(output_path: str) -> bool:
                 continue
 
             # Only keep channels that are in our playlist's EPG_MAP
-            if ch_id not in playlist_ids:
+            if ch_id not in PLAYLIST_CHANNEL_IDS:
                 continue
 
             if ch_id not in merged_channels:
@@ -110,7 +108,7 @@ def merge_epg(output_path: str) -> bool:
             if not ch_id or not start:
                 continue
 
-            if ch_id not in playlist_ids:
+            if ch_id not in PLAYLIST_CHANNEL_IDS:
                 continue
 
             # Deduplicate by (channel_id, start)

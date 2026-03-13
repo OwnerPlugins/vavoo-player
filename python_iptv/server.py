@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PLAYLIST_PATH = os.path.join(BASE_DIR, "playlist.m3u8")
 EPG_PATH = os.path.join(BASE_DIR, "epg.xml")
 LOGOS_DIR = os.path.join(BASE_DIR, "logos")
-FRONTEND_DIR = os.path.join(BASE_DIR, "web-player")
+FRONTEND_DIR = os.path.join(BASE_DIR, "web-player", "dist")
 SUBS_DIR = os.path.join(BASE_DIR, "python_iptv", "subs")
 
 import uuid
