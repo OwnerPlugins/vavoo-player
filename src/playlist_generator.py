@@ -57,7 +57,10 @@ TIVUSAT_ORDER = {
     "SPORTITALIA 7": 120, "SPORTITALIA 8": 121,
     "DAZN 16": 122, "DAZN 17": 123, "DAZN 18": 124,
     "SKY SPORT 253": 125, "SKY SPORT 254": 126,
-    "SPORTITALIA 9": 127, "SPORTITALIA 10": 128
+    "SPORTITALIA 9": 127, "SPORTITALIA 10": 128,
+    "DAZN 19": 129, "DAZN 20": 130, "DAZN 21": 131,
+    "SKY SPORT 255": 132, "SKY SPORT 256": 133,
+    "SPORTITALIA 11": 134, "SPORTITALIA 12": 135
 }
 
 BOUQUETS = {
@@ -82,7 +85,8 @@ BOUQUETS = {
               "SKY SPORT MOTOGP", "SKY SPORT TENNIS", "SPORTITALIA 3", "SPORTITALIA 4", "DAZN 10", "DAZN 11", "DAZN 12",
               "SKY SPORT GOLF", "SKY SPORT NBA", "SPORTITALIA 5", "SPORTITALIA 6", "DAZN 13", "DAZN 14", "DAZN 15",
               "SKY SPORT 251", "SKY SPORT 252", "SPORTITALIA 7", "SPORTITALIA 8", "DAZN 16", "DAZN 17", "DAZN 18",
-              "SKY SPORT 253", "SKY SPORT 254", "SPORTITALIA 9", "SPORTITALIA 10"],
+              "SKY SPORT 253", "SKY SPORT 254", "SPORTITALIA 9", "SPORTITALIA 10", "DAZN 19", "DAZN 20", "DAZN 21",
+              "SKY SPORT 255", "SKY SPORT 256", "SPORTITALIA 11", "SPORTITALIA 12"],
     "Kids": ["BOING", "K2", "FRISBEE", "CARTOONITO", "SUPER!", "RAI GULP", "RAI YOYO", "DEAKIDS", "DEA JUNIOR",
              "BOOMERANG", "CARTOON NETWORK", "NICK JR", "NICKELODEON", "NICK", "BABY TV",
              "IUNIOR TV", "DISNEY", "JIMJAM", "TEEN NICK"],
@@ -388,6 +392,13 @@ EPG_MAP = {
     "SKY SPORT 254": "SkySport254.it",
     "SPORTITALIA 9": "Sportitalia9.it",
     "SPORTITALIA 10": "Sportitalia10.it",
+    "DAZN 19": "DAZN19.it",
+    "DAZN 20": "DAZN20.it",
+    "DAZN 21": "DAZN21.it",
+    "SKY SPORT 255": "SkySport255.it",
+    "SKY SPORT 256": "SkySport256.it",
+    "SPORTITALIA 11": "Sportitalia11.it",
+    "SPORTITALIA 12": "Sportitalia12.it",
 }
 
 class PlaylistGenerator:
@@ -626,40 +637,6 @@ class PlaylistGenerator:
 
 
 
-    def _resolve_url(self, url):
-        """Risolve un URL Vavoo usando l'API mediahubmx-resolve per compatibilità con VLC."""
-        if not url or "vavoo" not in url.lower():
-            return url
-        
-        try:
-            sig = self.get_signature()
-            if not sig:
-                return url
-            
-            headers = {
-                "user-agent": "MediaHubMX/2",
-                "accept": "application/json",
-                "content-type": "application/json; charset=utf-8",
-                "accept-encoding": "gzip",
-                "mediahubmx-signature": sig
-            }
-            data = {
-                "language": "de",
-                "region": "AT",
-                "url": url,
-                "clientVersion": "3.0.2"
-            }
-            r = _http_session.post("https://vavoo.to/mediahubmx-resolve.json", json=data, headers=headers, timeout=15, verify=False)
-            result = r.json()
-            if isinstance(result, list) and len(result) > 0:
-                resolved = result[0].get("url")
-                if resolved:
-                    return resolved
-        except Exception as e:
-            logging.debug(f"Errore risoluzione URL: {e}")
-        
-        return url
-
     def _build_logos_cache(self, logos_dir):
         """Pre-build a normalized logo filename cache for O(1) lookups."""
         cache = {}
@@ -891,18 +868,11 @@ class PlaylistGenerator:
                 epg_url = "https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
                 
-                for i, ch in enumerate(processed_channels):
-                    # Risolvi URL Vavoo per compatibilità con VLC e altri player
-                    resolved_url = self._resolve_url(ch['url'])
-                    
+                for ch in processed_channels:
                     f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
                     header = f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["clean_name"]}" tvg-logo="{ch["final_logo"]}" channel="{ch["tvg_id"]}" group-title="{ch["group"]}",{ch["clean_name"]}'
                     f.write(f"{header}\n")
-                    f.write(f"{resolved_url}\n")
-                    
-                    # Log progress every 50 channels
-                    if (i + 1) % 50 == 0:
-                        logging.info(f"  Resolved {i + 1}/{len(processed_channels)} channels...")
+                    f.write(f"{ch['url']}\n")
                     
             logging.info("Playlist generated successfully.")
             return True
