@@ -130,7 +130,7 @@ EPG_SOURCES = [
         enabled=True,
         country_code="gb"
     )
-    """
+
     # EPGSource(
         # name="Australia",
         # url="https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
@@ -264,7 +264,7 @@ EPG_SOURCES = [
         # enabled=True,
         # country_code="us"
     # ),
-    """
+
 ]
 
 # Channel IDs actually used in the playlist
