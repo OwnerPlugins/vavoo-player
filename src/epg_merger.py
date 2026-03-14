@@ -392,6 +392,44 @@ def merge_epg(output_path: str) -> bool:
     return True
 
 
+def generate_country_files(output_dir: str = ".") -> bool:
+    """Genera un file EPG per ogni paese (sorgente) nella lista EPG_SOURCES."""
+    downloader = EPGDownloader()
+    cache = EPGCache()
+    success_count = 0
+
+    for source in EPG_SOURCES:
+        if not source.enabled:
+            continue
+
+        logging.info(f"Processing EPG source: {source.name}...")
+        xml_content = _download_source(source, downloader, cache)
+        if xml_content is None:
+            logging.warning(f"Skipping {source.name} — download failed")
+            continue
+
+        try:
+            tree = ET.parse(io.BytesIO(xml_content))
+            root = tree.getroot()
+
+            country_code = source.country_code or source.name.lower().replace(" ", "_")
+            filename = f"epg_{country_code}.xml"
+            filepath = os.path.join(output_dir, filename)
+
+            # Salva il file
+            with open(filepath, "wb") as f:
+                f.write(xml_content)  # Se vuoi filtrare, devi ricostruire l'XML
+
+            logging.info(f"Saved {filepath}")
+            success_count += 1
+
+        except Exception as e:
+            logging.error(f"Failed to process {source.name}: {e}")
+
+    logging.info(f"Generated {success_count} EPG files.")
+    return success_count > 0
+
+
 if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO,
