@@ -46,4 +46,5 @@ jobs:
           fi
           
           git commit -m "Auto-update playlist and EPG [skip ci]"
+          git pull --rebase origin master
           git push
