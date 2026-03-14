@@ -12,9 +12,9 @@ import io
 import logging
 import xml.etree.ElementTree as ET
 from typing import Optional, Dict, Tuple  # , Set
-from src.epg_manager import EPGManager, EPGSource, EPGDownloader, EPGCache
 from src.playlist_generator import EPG_MAP
-
+from src.epg_manager import EPGManager, EPGSource, EPGDownloader, EPGCache
+from src.epg_manager import DEFAULT_SOURCES
 
 """
 EPG_SOURCES = [
@@ -24,7 +24,7 @@ EPG_SOURCES = [
     EPGSource(name="CH_backup", url="https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz", priority=3),
 ]
 """
-EPG_SOURCES = [src for src in EPGManager.DEFAULT_SOURCES if src.enabled]
+EPG_SOURCES = [src for src in DEFAULT_SOURCES if src.enabled]
 # Channel IDs actually used in the playlist
 PLAYLIST_CHANNEL_IDS = set(EPG_MAP.values())
 # Also include RSI IDs as they appear in CH EPG sources (different from .it suffixes)
