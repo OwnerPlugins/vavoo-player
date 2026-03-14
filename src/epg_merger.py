@@ -13,7 +13,7 @@ import logging
 import xml.etree.ElementTree as ET
 from typing import Optional, Dict, Tuple  # , Set
 from src.playlist_generator import EPG_MAP
-from src.epg_manager import EPGDownloader, EPGCache
+from src.epg_manager import EPGDownloader, EPGCache, EPGSource
 
 """
 EPG_SOURCES = [
