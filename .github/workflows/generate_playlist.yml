@@ -50,5 +50,5 @@ jobs:
           fi
           
           git commit -m "Auto-update playlist [skip ci]"
-          git pull --rebase origin master
+          git pull --rebase --autostash origin master
           git push
