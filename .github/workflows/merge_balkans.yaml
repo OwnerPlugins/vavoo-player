@@ -2,8 +2,8 @@ name: Merge Balkans EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'   # ogni 6 ore
+  workflow_dispatch:         # esecuzione manuale
 
 jobs:
   merge:
