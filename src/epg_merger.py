@@ -14,7 +14,16 @@ import xml.etree.ElementTree as ET
 from typing import Optional, Dict, Set, Tuple
 
 from src.epg_manager import EPGSource, EPGDownloader, EPGCache
-from src.playlist_generator import EPG_MAP
+from src.playlist_generator import load_config
+
+
+def _get_playlist_channel_ids() -> Set[str]:
+    """Load EPG channel IDs from config."""
+    config = load_config()
+    epg_map = config.get("epg_map", {})
+    ids = set(epg_map.values())
+    ids.update({"RSI.La.1.ch", "RSI.LA.2.ch", "RSI La 1.ch", "RSI La 2.ch"})
+    return ids
 
 
 # All 4 sources as separate entries for maximum coverage
@@ -25,10 +34,7 @@ EPG_SOURCES = [
     EPGSource(name="CH_backup", url="https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz", priority=3),
 ]
 
-# Channel IDs actually used in the playlist
-PLAYLIST_CHANNEL_IDS = set(EPG_MAP.values())
-# Also include RSI IDs as they appear in CH EPG sources (different from .it suffixes)
-PLAYLIST_CHANNEL_IDS.update({"RSI.La.1.ch", "RSI.LA.2.ch", "RSI La 1.ch", "RSI La 2.ch"})
+PLAYLIST_CHANNEL_IDS = _get_playlist_channel_ids()
 
 
 def _is_ch_source(name: str) -> bool:

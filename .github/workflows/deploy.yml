@@ -1,0 +1,48 @@
+name: Deploy Vavoo Proxy to Render
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Test server imports
+        run: |
+          python -c "from server import app; print('Server imports OK')"
+      
+      - name: Deploy to Render
+        if: github.event_name == 'push'
+        uses: johnbeynon/render-deploy-action@v1.0.0
+        with:
+          service-id: ${{ secrets.RENDER_SERVICE_ID }}
+          api-key: ${{ secrets.RENDER_API_KEY }}
+      
+      - name: Generate playlist with remote proxy
+        run: |
+          python generate_proxy_playlist.py --proxy-url https://vavoo-proxy.onrender.com
+      
+      - name: Upload playlist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: playlist-proxy
+          path: playlist_proxy.m3u8
+          retention-days: 7

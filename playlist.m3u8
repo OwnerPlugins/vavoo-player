@@ -1,462 +1,537 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://logo.huhu.to/logo?c=875922788.png" channel="Rai1.it" group-title="TV Sat",RAI 1
+#EXTINF:-1 tvg-chno="1" tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://logo.huhu.to/logo?c=875922788.png" channel="Rai1.it" group-title="TV Sat",RAI 1
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="" channel="Rai1.it" group-title="TV Sat",RAI 1
+#EXTINF:-1 tvg-chno="1" tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="" channel="Rai1.it" group-title="TV Sat",RAI 1
 https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="https://logo.huhu.to/logo?c=1939210164.png" channel="Rai2.it" group-title="TV Sat",RAI 2
+#EXTINF:-1 tvg-chno="2" tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="https://logo.huhu.to/logo?c=1939210164.png" channel="Rai2.it" group-title="TV Sat",RAI 2
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="" channel="Rai2.it" group-title="TV Sat",RAI 2
+#EXTINF:-1 tvg-chno="2" tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="" channel="Rai2.it" group-title="TV Sat",RAI 2
 https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://logo.huhu.to/logo?c=1324733956.png" channel="Rai3.it" group-title="TV Sat",RAI 3
+#EXTINF:-1 tvg-chno="3" tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://logo.huhu.to/logo?c=1324733956.png" channel="Rai3.it" group-title="TV Sat",RAI 3
 https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://logo.huhu.to/logo?c=4198218214.png" channel="Rete4.it" group-title="Intrattenimento",RETE 4
+#EXTINF:-1 tvg-chno="3" tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="" channel="Rai3.it" group-title="TV Sat",RAI 3
+https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://logo.huhu.to/logo?c=4198218214.png" channel="Rete4.it" group-title="Intrattenimento",RETE 4
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="" channel="Rete4.it" group-title="Intrattenimento",RETE 4
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="" channel="Rete4.it" group-title="Intrattenimento",RETE 4
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://logo.huhu.to/logo?c=4198218214.png" channel="Rete4.it" group-title="TV Sat",RETE 4
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://logo.huhu.to/logo?c=4198218214.png" channel="Rete4.it" group-title="TV Sat",RETE 4
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="" channel="Rete4.it" group-title="TV Sat",RETE 4
+#EXTINF:-1 tvg-chno="4" tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="" channel="Rete4.it" group-title="TV Sat",RETE 4
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://logo.huhu.to/logo?c=1534161807.png" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://logo.huhu.to/logo?c=1534161807.png" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://logo.huhu.to/logo?c=1534161807.png" channel="Canale5.it" group-title="TV Sat",CANALE 5
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
+https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://logo.huhu.to/logo?c=1534161807.png" channel="Canale5.it" group-title="TV Sat",CANALE 5
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://logo.huhu.to/logo?c=663536394.png" channel="Italia1.it" group-title="Intrattenimento",ITALIA 1
+#EXTINF:-1 tvg-chno="5" tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="" channel="Canale5.it" group-title="TV Sat",CANALE 5
+https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="6" tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://logo.huhu.to/logo?c=663536394.png" channel="Italia1.it" group-title="Intrattenimento",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://logo.huhu.to/logo?c=663536394.png" channel="Italia1.it" group-title="TV Sat",ITALIA 1
+#EXTINF:-1 tvg-chno="6" tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://logo.huhu.to/logo?c=663536394.png" channel="Italia1.it" group-title="TV Sat",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=2143522071.png" channel="La7.it" group-title="Intrattenimento",LA7
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=2143522071.png" channel="La7.it" group-title="Intrattenimento",LA7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="Intrattenimento",LA7
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="Intrattenimento",LA7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://logo.huhu.to/logo?c=881846038.png" channel="La7D.it" group-title="Intrattenimento",LA7D
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=4238969402.png" channel="La7.it" group-title="Intrattenimento",LA7
+https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="Intrattenimento",LA7
+https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="7" tvg-id="La7d.it" tvg-name="LA7D" tvg-logo="https://logo.huhu.to/logo?c=881846038.png" channel="La7d.it" group-title="Intrattenimento",LA7D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=2143522071.png" channel="La7.it" group-title="TV Sat",LA7
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=2143522071.png" channel="La7.it" group-title="TV Sat",LA7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="TV Sat",LA7
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="TV Sat",LA7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://logo.huhu.to/logo?c=881846038.png" channel="La7D.it" group-title="TV Sat",LA7D
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://logo.huhu.to/logo?c=4238969402.png" channel="La7.it" group-title="TV Sat",LA7
+https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="7" tvg-id="La7.it" tvg-name="LA7" tvg-logo="" channel="La7.it" group-title="TV Sat",LA7
+https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="7" tvg-id="La7d.it" tvg-name="LA7D" tvg-logo="https://logo.huhu.to/logo?c=881846038.png" channel="La7d.it" group-title="TV Sat",LA7D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://logo.huhu.to/logo?c=4038365720.png" channel="TV8.it" group-title="TV Sat",TV8
+#EXTINF:-1 tvg-chno="8" tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://logo.huhu.to/logo?c=4038365720.png" channel="TV8.it" group-title="TV Sat",TV8
 https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="" channel="TV8.it" group-title="TV Sat",TV8
+#EXTINF:-1 tvg-chno="8" tvg-id="TV8.it" tvg-name="TV8" tvg-logo="" channel="TV8.it" group-title="TV Sat",TV8
 https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="" channel="Nove.it" group-title="Intrattenimento",NOVE
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="" channel="Nove.it" group-title="Intrattenimento",NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://logo.huhu.to/logo?c=867216452.png" channel="Nove.it" group-title="Intrattenimento",NOVE
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://logo.huhu.to/logo?c=867216452.png" channel="Nove.it" group-title="Intrattenimento",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="" channel="Nove.it" group-title="TV Sat",NOVE
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="" channel="Nove.it" group-title="TV Sat",NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://logo.huhu.to/logo?c=867216452.png" channel="Nove.it" group-title="TV Sat",NOVE
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://logo.huhu.to/logo?c=867216452.png" channel="Nove.it" group-title="TV Sat",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="https://logo.huhu.to/logo?c=4241820180.png" channel="Rai4.it" group-title="TV Sat",RAI 4
+#EXTINF:-1 tvg-chno="10" tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="https://logo.huhu.to/logo?c=4241820180.png" channel="Rai4.it" group-title="TV Sat",RAI 4
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+#EXTINF:-1 tvg-chno="10" tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="" channel="Rai4.it" group-title="TV Sat",RAI 4
+https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="RAI 4K" tvg-logo="logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
 https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" channel="Iris.it" group-title="Cinema",IRIS
+#EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" channel="Iris.it" group-title="Cinema",IRIS
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="" channel="Iris.it" group-title="Cinema",IRIS
+#EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="" channel="Iris.it" group-title="Cinema",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" channel="Iris.it" group-title="TV Sat",IRIS
+#EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" channel="Iris.it" group-title="TV Sat",IRIS
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="" channel="Iris.it" group-title="TV Sat",IRIS
+#EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="" channel="Iris.it" group-title="TV Sat",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=84139639.png" channel="La5.it" group-title="Cinema",LA5
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=84139639.png" channel="La5.it" group-title="Cinema",LA5
 https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="Cinema",LA5
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="Cinema",LA5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=84139639.png" channel="La5.it" group-title="TV Sat",LA5
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=2255083866.png" channel="La5.it" group-title="Cinema",LA5
+https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="Cinema",LA5
+https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=84139639.png" channel="La5.it" group-title="TV Sat",LA5
 https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="TV Sat",LA5
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="TV Sat",LA5
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="https://logo.huhu.to/logo?c=3249873828.png" channel="Rai5.it" group-title="TV Sat",RAI 5
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://logo.huhu.to/logo?c=2255083866.png" channel="La5.it" group-title="TV Sat",LA5
+https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="12" tvg-id="La5.it" tvg-name="LA5" tvg-logo="" channel="La5.it" group-title="TV Sat",LA5
+https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="13" tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="https://logo.huhu.to/logo?c=3249873828.png" channel="Rai5.it" group-title="TV Sat",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="" channel="Rai5.it" group-title="TV Sat",RAI 5
+#EXTINF:-1 tvg-chno="13" tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="" channel="Rai5.it" group-title="TV Sat",RAI 5
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://logo.huhu.to/logo?c=2835672487.png" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
+#EXTINF:-1 tvg-chno="14" tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://logo.huhu.to/logo?c=2835672487.png" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
+#EXTINF:-1 tvg-chno="14" tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://logo.huhu.to/logo?c=2835672487.png" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
+#EXTINF:-1 tvg-chno="14" tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://logo.huhu.to/logo?c=2835672487.png" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
+#EXTINF:-1 tvg-chno="14" tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://logo.huhu.to/logo?c=2861734300.png" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
+#EXTINF:-1 tvg-chno="15" tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://logo.huhu.to/logo?c=2861734300.png" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
+#EXTINF:-1 tvg-chno="15" tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://logo.huhu.to/logo?c=2861734300.png" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
+#EXTINF:-1 tvg-chno="15" tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://logo.huhu.to/logo?c=2861734300.png" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/28617343009ba70ce123ce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
+#EXTINF:-1 tvg-chno="15" tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
 https://vavoo.to/vavoo-iptv/play/282845555296ba7681a581
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://logo.huhu.to/logo?c=477466531.png" channel="MediasetExtra.it" group-title="Intrattenimento",MEDIASET EXTRA
+#EXTINF:-1 tvg-chno="17" tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://logo.huhu.to/logo?c=477466531.png" channel="MediasetExtra.it" group-title="Intrattenimento",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://logo.huhu.to/logo?c=477466531.png" channel="MediasetExtra.it" group-title="TV Sat",MEDIASET EXTRA
+#EXTINF:-1 tvg-chno="17" tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://logo.huhu.to/logo?c=477466531.png" channel="MediasetExtra.it" group-title="TV Sat",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://logo.huhu.to/logo?c=1949044924.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
+#EXTINF:-1 tvg-chno="18" tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://logo.huhu.to/logo?c=1949044924.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" channel="TV2000.it" group-title="Intrattenimento",TV2000
+#EXTINF:-1 tvg-chno="18" tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" channel="TV2000.it" group-title="Intrattenimento",TV2000
 https://vavoo.to/vavoo-iptv/play/11337349729837365ad79b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://logo.huhu.to/logo?c=1949044924.png" channel="TV2000.it" group-title="TV Sat",TV2000
+#EXTINF:-1 tvg-chno="18" tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://logo.huhu.to/logo?c=1949044924.png" channel="TV2000.it" group-title="TV Sat",TV2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" channel="TV2000.it" group-title="TV Sat",TV2000
+#EXTINF:-1 tvg-chno="18" tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" channel="TV2000.it" group-title="TV Sat",TV2000
 https://vavoo.to/vavoo-iptv/play/11337349729837365ad79b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://logo.huhu.to/logo?c=2719953688.png" channel="cielo.it" group-title="TV Sat",CIELO
+#EXTINF:-1 tvg-chno="19" tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://logo.huhu.to/logo?c=2719953688.png" channel="cielo.it" group-title="TV Sat",CIELO
 https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="" channel="cielo.it" group-title="TV Sat",CIELO
+#EXTINF:-1 tvg-chno="19" tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="" channel="cielo.it" group-title="TV Sat",CIELO
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://logo.huhu.to/logo?c=1230338185.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-chno="20" tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://logo.huhu.to/logo?c=1230338185.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavoo.to/vavoo-iptv/play/12303381856673f2a33deb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-chno="20" tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+#EXTINF:-1 tvg-chno="20" tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-chno="21" tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-chno="21" tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-chno="21" tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="https://logo.huhu.to/logo?c=78838793.png" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
+#EXTINF:-1 tvg-chno="23" tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="https://logo.huhu.to/logo?c=78838793.png" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/788387936f9a9f4a81c4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
+#EXTINF:-1 tvg-chno="23" tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://logo.huhu.to/logo?c=2272923972.png" channel="RaiNews.it" group-title="News",RAI NEWS 24
+#EXTINF:-1 tvg-chno="24" tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://logo.huhu.to/logo?c=2272923972.png" channel="RaiNews.it" group-title="News",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="" channel="RaiNews.it" group-title="News",RAI NEWS 24
+#EXTINF:-1 tvg-chno="24" tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="" channel="RaiNews.it" group-title="News",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://logo.huhu.to/logo?c=2272923972.png" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
+#EXTINF:-1 tvg-chno="24" tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://logo.huhu.to/logo?c=2272923972.png" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
+#EXTINF:-1 tvg-chno="24" tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-chno="25" tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-chno="25" tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-chno="25" tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-chno="25" tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" channel="DMAX.it" group-title="Intrattenimento",DMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" channel="DMAX.it" group-title="Intrattenimento",DMAX
 https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="" channel="DMAX.it" group-title="Intrattenimento",DMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="" channel="DMAX.it" group-title="Intrattenimento",DMAX
 https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" channel="DMAX.it" group-title="TV Sat",DMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" channel="DMAX.it" group-title="TV Sat",DMAX
 https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="" channel="DMAX.it" group-title="TV Sat",DMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="" channel="DMAX.it" group-title="TV Sat",DMAX
 https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://logo.huhu.to/logo?c=1574975196.png" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
+#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://logo.huhu.to/logo?c=1574975196.png" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
+#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
 https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://logo.huhu.to/logo?c=1574975196.png" channel="Real.Time.it" group-title="TV Sat",REAL TIME
+#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://logo.huhu.to/logo?c=1574975196.png" channel="Real.Time.it" group-title="TV Sat",REAL TIME
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="" channel="Real.Time.it" group-title="TV Sat",REAL TIME
+#EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="" channel="Real.Time.it" group-title="TV Sat",REAL TIME
 https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://logo.huhu.to/logo?c=62558606.png" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://logo.huhu.to/logo?c=62558606.png" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://logo.huhu.to/logo?c=62558606.png" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://logo.huhu.to/logo?c=62558606.png" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://logo.huhu.to/logo?c=3439223610.png" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://logo.huhu.to/logo?c=3439223610.png" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://logo.huhu.to/logo?c=3439223610.png" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://logo.huhu.to/logo?c=3439223610.png" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://logo.huhu.to/logo?c=3168132911.png" channel="RTL1025.it" group-title="Music",RTL 102.5
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://logo.huhu.to/logo?c=3168132911.png" channel="RTL1025.it" group-title="Music",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="https://logo.huhu.to/logo?c=2373936189.png" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
+#EXTINF:-1 tvg-chno="36" tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="" channel="RTL1025.it" group-title="Music",RTL 102.5
+https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="https://logo.huhu.to/logo?c=2373936189.png" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
+#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="" channel="Giallo.TV.it" group-title="Intrattenimento",GIALLO
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="https://logo.huhu.to/logo?c=2373936189.png" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
+#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="https://logo.huhu.to/logo?c=2373936189.png" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
+#EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="GIALLO" tvg-logo="" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-chno="39" tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://logo.huhu.to/logo?c=354961873.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-chno="39" tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://logo.huhu.to/logo?c=354961873.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://logo.huhu.to/logo?c=269503091.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-chno="39" tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://logo.huhu.to/logo?c=269503091.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-chno="39" tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://logo.huhu.to/logo?c=3373510242.png" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://logo.huhu.to/logo?c=3373510242.png" channel="Boing.it" group-title="Kids",BOING
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="BOING" tvg-logo="" channel="Boing.it" group-title="Kids",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://logo.huhu.to/logo?c=3373510242.png" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://logo.huhu.to/logo?c=3373510242.png" channel="Boing.it" group-title="TV Sat",BOING
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-chno="40" tvg-id="Boing.it" tvg-name="BOING" tvg-logo="" channel="Boing.it" group-title="TV Sat",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="Kids",K2
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://logo.huhu.to/logo?c=2255724318.png" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://logo.huhu.to/logo?c=2255724318.png" channel="K2.it" group-title="Kids",K2
 https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="Kids",K2
+https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="TV Sat",K2
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://logo.huhu.to/logo?c=2255724318.png" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://logo.huhu.to/logo?c=2255724318.png" channel="K2.it" group-title="TV Sat",K2
 https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://logo.huhu.to/logo?c=1901652742.png" channel="RaiGulp.it" group-title="Kids",RAI GULP
+#EXTINF:-1 tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="" channel="K2.it" group-title="TV Sat",K2
+https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://logo.huhu.to/logo?c=1901652742.png" channel="RaiGulp.it" group-title="Kids",RAI GULP
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="" channel="RaiGulp.it" group-title="Kids",RAI GULP
+#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="" channel="RaiGulp.it" group-title="Kids",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://logo.huhu.to/logo?c=1901652742.png" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
+#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://logo.huhu.to/logo?c=1901652742.png" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
+#EXTINF:-1 tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://logo.huhu.to/logo?c=1785501924.png" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
+#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://logo.huhu.to/logo?c=1785501924.png" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
+#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://logo.huhu.to/logo?c=1785501924.png" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
+#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://logo.huhu.to/logo?c=1785501924.png" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
+#EXTINF:-1 tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png" channel="-frisbee-.it" group-title="Kids",FRISBEE
+#EXTINF:-1 tvg-chno="44" tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png" channel="-frisbee-.it" group-title="Kids",FRISBEE
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
+#EXTINF:-1 tvg-chno="44" tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://logo.huhu.to/logo?c=1987220436.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://logo.huhu.to/logo?c=1987220436.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://logo.huhu.to/logo?c=1987220436.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://logo.huhu.to/logo?c=1987220436.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-chno="46" tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" channel="Super!.it" group-title="Kids",SUPER!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3213195143.png" channel="Super!.it" group-title="Kids",SUPER!
+https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="Kids",SUPER!
+https://vavoo.to/vavoo-iptv/play/300937751365646200d097
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=11653719.png" channel="Super!.it" group-title="Kids",SUPER!
+https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=2061826034.png" channel="Super!.it" group-title="Kids",SUPER!
+https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" channel="Super!.it" group-title="Kids",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="Kids",SUPER!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="Kids",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" channel="Super!.it" group-title="TV Sat",SUPER!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=849124464.png" channel="Super!.it" group-title="Kids",SUPER!
+https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3213195143.png" channel="Super!.it" group-title="TV Sat",SUPER!
+https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="TV Sat",SUPER!
+https://vavoo.to/vavoo-iptv/play/300937751365646200d097
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=11653719.png" channel="Super!.it" group-title="TV Sat",SUPER!
+https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=2061826034.png" channel="Super!.it" group-title="TV Sat",SUPER!
+https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" channel="Super!.it" group-title="TV Sat",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="TV Sat",SUPER!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="" channel="Super!.it" group-title="TV Sat",SUPER!
 https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://logo.huhu.to/logo?c=3376031355.png" channel="SkyTG24.it" group-title="News",SKY TG24
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="SUPER!" tvg-logo="https://logo.huhu.to/logo?c=849124464.png" channel="Super!.it" group-title="TV Sat",SUPER!
+https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="50" tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://logo.huhu.to/logo?c=3376031355.png" channel="SkyTG24.it" group-title="News",SKY TG24
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="" channel="SkyTG24.it" group-title="News",SKY TG24
+#EXTINF:-1 tvg-chno="50" tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="" channel="SkyTG24.it" group-title="News",SKY TG24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://logo.huhu.to/logo?c=3376031355.png" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
+#EXTINF:-1 tvg-chno="50" tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://logo.huhu.to/logo?c=3376031355.png" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
+#EXTINF:-1 tvg-chno="50" tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://logo.huhu.to/logo?c=1613543898.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-chno="66" tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://logo.huhu.to/logo?c=1613543898.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavoo.to/vavoo-iptv/play/1613543898fd67f91cf2e0
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-chno="66" tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
+#EXTINF:-1 tvg-chno="71" tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
+#EXTINF:-1 tvg-chno="71" tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
+#EXTINF:-1 tvg-chno="72" tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
+#EXTINF:-1 tvg-chno="72" tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://logo.huhu.to/logo?c=1376440573.png" channel="DAZN1.it" group-title="Sport",DAZN 1
+#EXTINF:-1 tvg-chno="87" tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://logo.huhu.to/logo?c=1376440573.png" channel="DAZN1.it" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="DAZN 2" tvg-logo="https://logo.huhu.to/logo?c=363506221.png" channel="DAZN2.it" group-title="Sport",DAZN 2
+#EXTINF:-1 tvg-chno="88" tvg-id="DAZN2.it" tvg-name="DAZN 2" tvg-logo="https://logo.huhu.to/logo?c=363506221.png" channel="DAZN2.it" group-title="Sport",DAZN 2
 https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://logo.huhu.to/logo?c=210669162.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
+#EXTINF:-1 tvg-chno="90" tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://logo.huhu.to/logo?c=210669162.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-chno="90" tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
+https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-chno="91" tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-chno="91" tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://logo.huhu.to/logo?c=3481346857.png" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-chno="92" tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://logo.huhu.to/logo?c=3481346857.png" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-chno="92" tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://logo.huhu.to/logo?c=2283887097.png" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-chno="93" tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://logo.huhu.to/logo?c=2283887097.png" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-chno="93" tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 2 TIMVISION" tvg-name="EUROSPORT 2 TIMVISION" tvg-logo="" channel="EUROSPORT 2 TIMVISION" group-title="Sport",EUROSPORT 2 TIMVISION
+#EXTINF:-1 tvg-chno="93" tvg-id="EUROSPORT 2 TIMVISION" tvg-name="EUROSPORT 2 TIMVISION" tvg-logo="" channel="EUROSPORT 2 TIMVISION" group-title="Sport",EUROSPORT 2 TIMVISION
 https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-chno="97" tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-chno="97" tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://logo.huhu.to/logo?c=4246774056.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-chno="98" tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://logo.huhu.to/logo?c=4246774056.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-chno="98" tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://logo.huhu.to/logo?c=2100771782.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
+#EXTINF:-1 tvg-chno="105" tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://logo.huhu.to/logo?c=2100771782.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
-https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://logo.huhu.to/logo?c=729945219.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
+#EXTINF:-1 tvg-chno="111" tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://logo.huhu.to/logo?c=729945219.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://logo.huhu.to/logo?c=2711959620.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
+#EXTINF:-1 tvg-chno="112" tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://logo.huhu.to/logo?c=2711959620.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
+#EXTINF:-1 tvg-chno="112" tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://logo.huhu.to/logo?c=3812796171.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
@@ -511,6 +586,9 @@ https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
@@ -537,14 +615,14 @@ https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://logo.huhu.to/logo?c=2130523218.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://logo.huhu.to/logo?c=1968640789.png" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 1" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://logo.huhu.to/logo?c=1944682394.png" channel="SKY PRIMAFILA 1" group-title="Primafila / PPV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 1" tvg-name="SKY PRIMAFILA 1" tvg-logo="" channel="SKY PRIMAFILA 1" group-title="Primafila / PPV",SKY PRIMAFILA 1
+https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 10" tvg-name="SKY PRIMAFILA 10" tvg-logo="" channel="SKY PRIMAFILA 10" group-title="Primafila / PPV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
@@ -591,20 +669,11 @@ https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 4" tvg-name="SKY PRIMAFILA 4" tvg-logo="" channel="SKY PRIMAFILA 4" group-title="Primafila / PPV",SKY PRIMAFILA 4
 https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 5" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://logo.huhu.to/logo?c=2255083866.png" channel="SKY PRIMAFILA 5" group-title="Primafila / PPV",SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 5" tvg-name="SKY PRIMAFILA 5" tvg-logo="" channel="SKY PRIMAFILA 5" group-title="Primafila / PPV",SKY PRIMAFILA 5
-https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 6" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://logo.huhu.to/logo?c=3251217290.png" channel="SKY PRIMAFILA 6" group-title="Primafila / PPV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 7" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://logo.huhu.to/logo?c=4238969402.png" channel="SKY PRIMAFILA 7" group-title="Primafila / PPV",SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 7" tvg-name="SKY PRIMAFILA 7" tvg-logo="" channel="SKY PRIMAFILA 7" group-title="Primafila / PPV",SKY PRIMAFILA 7
-https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
+#EXTINF:-1 tvg-id="SKY PRIMAFILA 6" tvg-name="SKY PRIMAFILA 6" tvg-logo="" channel="SKY PRIMAFILA 6" group-title="Primafila / PPV",SKY PRIMAFILA 6
+https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 8" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://logo.huhu.to/logo?c=2130255339.png" channel="SKY PRIMAFILA 8" group-title="Primafila / PPV",SKY PRIMAFILA 8
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -632,9 +701,6 @@ https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN.it" tvg-name="DAZN" tvg-logo="" channel="DAZN.it" group-title="Sport",DAZN
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PRIMA TV" tvg-name="PRIMA TV" tvg-logo="https://logo.huhu.to/logo?c=530658045.png" channel="PRIMA TV" group-title="Other",PRIMA TV
 https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
@@ -672,6 +738,12 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://logo.huhu.to/logo?c=528430841.png" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY C" tvg-logo="https://logo.huhu.to/logo?c=317837654.png" channel="History.it" group-title="Documentary",HISTORY C
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY S" tvg-logo="" channel="History.it" group-title="Documentary",HISTORY S
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-logo="https://logo.huhu.to/logo?c=1735702308.png" channel="NAT GEO" group-title="Documentary",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -683,6 +755,9 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="https://logo.huhu.to/logo?c=714472867.png" channel="PESCA" group-title="Documentary",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
+https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="https://logo.huhu.to/logo?c=2532635659.png" channel="Blaze.it" group-title="Intrattenimento",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
@@ -699,9 +774,6 @@ https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="" channel="Fox.it" group-title="Intrattenimento",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="https://logo.huhu.to/logo?c=3938501125.png" channel="BabyTV.it" group-title="Kids",BABY TV
-https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-name="BOOMERANG" tvg-logo="https://logo.huhu.to/logo?c=2705627802.png" channel="Boomerang.it" group-title="Kids",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -717,7 +789,7 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="IUNIOR TV" tvg-name="IUNIOR TV" tvg-logo="https://logo.huhu.to/logo?c=803540254.png" channel="IUNIOR TV" group-title="Kids",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://logo.huhu.to/logo?c=380958472.png" channel="NICK JR" group-title="Kids",NICK JR
+#EXTINF:-1 tvg-id="NickJr+1.it" tvg-name="NICK JR" tvg-logo="https://logo.huhu.to/logo?c=380958472.png" channel="NickJr+1.it" group-title="Kids",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CANALE 21 CAMPANIA" tvg-name="CANALE 21 CAMPANIA" tvg-logo="https://logo.huhu.to/logo?c=3906007886.png" channel="CANALE 21 CAMPANIA" group-title="Locali",CANALE 21 CAMPANIA
@@ -789,9 +861,6 @@ https://vavoo.to/vavoo-iptv/play/30279032788f9f7870557e
 #EXTINF:-1 tvg-id="M2O" tvg-name="M2O" tvg-logo="https://logo.huhu.to/logo?c=215827632.png" channel="M2O" group-title="Music",M2O
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MTVHits.it" tvg-name="MTV HITS" tvg-logo="" channel="MTVHits.it" group-title="Music",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" tvg-logo="" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -810,10 +879,7 @@ https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
 #EXTINF:-1 tvg-id="RMC 101" tvg-name="RMC 101" tvg-logo="https://logo.huhu.to/logo?c=2209352147.png" channel="RMC 101" group-title="Music",RMC 101
 https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://logo.huhu.to/logo?c=2237660301.png" channel="VH1" group-title="Music",VH1
-https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-name="BLOOMBERG TV" tvg-logo="" channel="BLOOMBERG TV" group-title="News",BLOOMBERG TV
+#EXTINF:-1 tvg-id="Bloomberg.it" tvg-name="BLOOMBERG TV" tvg-logo="" channel="Bloomberg.it" group-title="News",BLOOMBERG TV
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="BLOOMBERG TV 4K" tvg-name="BLOOMBERG TV 4K" tvg-logo="https://logo.huhu.to/logo?c=3911047486.png" channel="BLOOMBERG TV 4K" group-title="News",BLOOMBERG TV 4K
@@ -825,10 +891,10 @@ https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 #EXTINF:-1 tvg-id="France24.it" tvg-name="FRANCE 24" tvg-logo="https://logo.huhu.to/logo?c=2179686828.png" channel="France24.it" group-title="News",FRANCE 24
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" tvg-logo="https://logo.huhu.to/logo?c=3379729817.png" channel="TG NORBA 24" group-title="News",TG NORBA 24
+#EXTINF:-1 tvg-id="TGNORBA24.it" tvg-name="TG NORBA 24" tvg-logo="https://logo.huhu.to/logo?c=3379729817.png" channel="TGNORBA24.it" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" tvg-logo="" channel="TG NORBA 24" group-title="News",TG NORBA 24
+#EXTINF:-1 tvg-id="TGNORBA24.it" tvg-name="TG NORBA 24" tvg-logo="" channel="TGNORBA24.it" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="111 TV" tvg-name="111 TV" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png" channel="111 TV" group-title="Other",111 TV
@@ -888,16 +954,19 @@ https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="CANALE 122" tvg-name="CANALE 122" tvg-logo="https://logo.huhu.to/logo?c=466718273.png" channel="CANALE 122" group-title="Other",CANALE 122
 https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 2" tvg-name="CANALE 2" tvg-logo="https://logo.huhu.to/logo?c=3914444703.png" channel="CANALE 2" group-title="Other",CANALE 2
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 2" tvg-logo="https://logo.huhu.to/logo?c=3914444703.png" channel="Canale5.it" group-title="Other",CANALE 2
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 7" tvg-name="CANALE 7" tvg-logo="https://logo.huhu.to/logo?c=565256431.png" channel="CANALE 7" group-title="Other",CANALE 7
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 7" tvg-logo="https://logo.huhu.to/logo?c=565256431.png" channel="Canale5.it" group-title="Other",CANALE 7
 https://vavoo.to/vavoo-iptv/play/565256431b8fb5052f1a2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 8" tvg-name="CANALE 8" tvg-logo="https://logo.huhu.to/logo?c=2749478718.png" channel="CANALE 8" group-title="Other",CANALE 8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 7" tvg-logo="https://logo.huhu.to/logo?c=996680722.png" channel="Canale5.it" group-title="Other",CANALE 7
+https://vavoo.to/vavoo-iptv/play/996680722dbf763c9bb56
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 8" tvg-logo="https://logo.huhu.to/logo?c=2749478718.png" channel="Canale5.it" group-title="Other",CANALE 8
 https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CANALE 8" tvg-name="CANALE 8" tvg-logo="" channel="CANALE 8" group-title="Other",CANALE 8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 8" tvg-logo="" channel="Canale5.it" group-title="Other",CANALE 8
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CANALE DIECI" tvg-name="CANALE DIECI" tvg-logo="https://logo.huhu.to/logo?c=1431729360.png" channel="CANALE DIECI" group-title="Other",CANALE DIECI
@@ -918,7 +987,7 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="CREMONA 1" tvg-name="CREMONA 1" tvg-logo="https://logo.huhu.to/logo?c=4137427510.png" channel="CREMONA 1" group-title="Other",CREMONA 1
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CRIME INV" tvg-name="CRIME INV" tvg-logo="" channel="CRIME INV" group-title="Other",CRIME INV
+#EXTINF:-1 tvg-id="Crime+Inv..it" tvg-name="CRIME INV" tvg-logo="" channel="Crime+Inv..it" group-title="Other",CRIME INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ELIVE TV BRESCIA" tvg-name="ELIVE TV BRESCIA" tvg-logo="https://logo.huhu.to/logo?c=1521821490.png" channel="ELIVE TV BRESCIA" group-title="Other",ELIVE TV BRESCIA
@@ -927,7 +996,7 @@ https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 #EXTINF:-1 tvg-id="ENTELLA TV" tvg-name="ENTELLA TV" tvg-logo="https://logo.huhu.to/logo?c=1371658771.png" channel="ENTELLA TV" group-title="Other",ENTELLA TV
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EQU TV" tvg-name="EQU TV" tvg-logo="https://logo.huhu.to/logo?c=2818586668.png" channel="EQU TV" group-title="Other",EQU TV
+#EXTINF:-1 tvg-id="Equtv.it" tvg-name="EQU TV" tvg-logo="https://logo.huhu.to/logo?c=2818586668.png" channel="Equtv.it" group-title="Other",EQU TV
 https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ESPANSIONE TV" tvg-name="ESPANSIONE TV" tvg-logo="https://logo.huhu.to/logo?c=539484419.png" channel="ESPANSIONE TV" group-title="Other",ESPANSIONE TV
@@ -963,7 +1032,7 @@ https://vavoo.to/vavoo-iptv/play/6513881342f0388082aa1
 #EXTINF:-1 tvg-id="FM ITALIA TV" tvg-name="FM ITALIA TV" tvg-logo="https://logo.huhu.to/logo?c=32417864.png" channel="FM ITALIA TV" group-title="Other",FM ITALIA TV
 https://vavoo.to/vavoo-iptv/play/3241786453834d6c74cc
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" tvg-logo="https://logo.huhu.to/logo?c=2481284739.png" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="GAMBERO ROSSO" tvg-logo="https://logo.huhu.to/logo?c=2481284739.png" channel="GamberoRosso.it" group-title="Other",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="GLOBUS TELEVISION" tvg-name="GLOBUS TELEVISION" tvg-logo="" channel="GLOBUS TELEVISION" group-title="Other",GLOBUS TELEVISION
@@ -981,7 +1050,7 @@ https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="ICARO TV" tvg-name="ICARO TV" tvg-logo="" channel="ICARO TV" group-title="Other",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ITALIA 3" tvg-name="ITALIA 3" tvg-logo="" channel="ITALIA 3" group-title="Other",ITALIA 3
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 3" tvg-logo="" channel="Italia1.it" group-title="Other",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ITALIAN FISHING TV" tvg-name="ITALIAN FISHING TV" tvg-logo="https://logo.huhu.to/logo?c=4235410936.png" channel="ITALIAN FISHING TV" group-title="Other",ITALIAN FISHING TV
@@ -1053,9 +1122,6 @@ https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="RADIO 51" tvg-name="RADIO 51" tvg-logo="" channel="RADIO 51" group-title="Other",RADIO 51
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN FAMILY" tvg-name="RAKUTEN FAMILY" tvg-logo="" channel="RAKUTEN FAMILY" group-title="Other",RAKUTEN FAMILY
-https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="REGGIO TV" tvg-name="REGGIO TV" tvg-logo="https://logo.huhu.to/logo?c=2165549789.png" channel="REGGIO TV" group-title="Other",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1086,11 +1152,8 @@ https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="RTR 99 TV" tvg-name="RTR 99 TV" tvg-logo="https://logo.huhu.to/logo?c=1621632780.png" channel="RTR 99 TV" group-title="Other",RTR 99 TV
 https://vavoo.to/vavoo-iptv/play/1621632780775ff4ee8846
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTV SAN MARINO" tvg-name="RTV SAN MARINO" tvg-logo="" channel="RTV SAN MARINO" group-title="Other",RTV SAN MARINO
+#EXTINF:-1 tvg-id="SanMarinoRTV.it" tvg-name="RTV SAN MARINO" tvg-logo="" channel="SanMarinoRTV.it" group-title="Other",RTV SAN MARINO
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTV SAN MARINO SPORT" tvg-name="RTV SAN MARINO SPORT" tvg-logo="" channel="RTV SAN MARINO SPORT" group-title="Other",RTV SAN MARINO SPORT
-https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SAN MARINO RTV" tvg-name="SAN MARINO RTV" tvg-logo="https://logo.huhu.to/logo?c=968665235.png" channel="SAN MARINO RTV" group-title="Other",SAN MARINO RTV
 https://vavoo.to/vavoo-iptv/play/968665235fe574bf09dcb
@@ -1103,15 +1166,6 @@ https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="STEREO 5 TV" tvg-name="STEREO 5 TV" tvg-logo="https://logo.huhu.to/logo?c=88205050.png" channel="STEREO 5 TV" group-title="Other",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SUPER TV ARISTANIS" tvg-name="SUPER TV ARISTANIS" tvg-logo="https://logo.huhu.to/logo?c=11653719.png" channel="SUPER TV ARISTANIS" group-title="Other",SUPER TV ARISTANIS
-https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SUPER TV BRESCIA" tvg-name="SUPER TV BRESCIA" tvg-logo="https://logo.huhu.to/logo?c=2061826034.png" channel="SUPER TV BRESCIA" group-title="Other",SUPER TV BRESCIA
-https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SUPERSIX LOMBARDIA" tvg-name="SUPERSIX LOMBARDIA" tvg-logo="https://logo.huhu.to/logo?c=849124464.png" channel="SUPERSIX LOMBARDIA" group-title="Other",SUPERSIX LOMBARDIA
-https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE ABRUZZO" tvg-name="TELE ABRUZZO" tvg-logo="" channel="TELE ABRUZZO" group-title="Other",TELE ABRUZZO
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
@@ -1131,20 +1185,11 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 #EXTINF:-1 tvg-id="TELE PAVIA" tvg-name="TELE PAVIA" tvg-logo="https://logo.huhu.to/logo?c=616483317.png" channel="TELE PAVIA" group-title="Other",TELE PAVIA
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE ROMAGNA" tvg-name="TELE ROMAGNA" tvg-logo="" channel="TELE ROMAGNA" group-title="Other",TELE ROMAGNA
-https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE SIRIO" tvg-name="TELE SIRIO" tvg-logo="" channel="TELE SIRIO" group-title="Other",TELE SIRIO
-https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE TRICOLORE" tvg-name="TELE TRICOLORE" tvg-logo="" channel="TELE TRICOLORE" group-title="Other",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE TUSCIASABINA 2000" tvg-name="TELE TUSCIASABINA 2000" tvg-logo="https://logo.huhu.to/logo?c=545707096.png" channel="TELE TUSCIASABINA 2000" group-title="Other",TELE TUSCIASABINA 2000
 https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE VENEZIA" tvg-name="TELE VENEZIA" tvg-logo="" channel="TELE VENEZIA" group-title="Other",TELE VENEZIA
-https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELEARENA" tvg-name="TELEARENA" tvg-logo="https://logo.huhu.to/logo?c=4081561014.png" channel="TELEARENA" group-title="Other",TELEARENA
 https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
@@ -1206,9 +1251,6 @@ https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="TRENTINO TV" tvg-name="TRENTINO TV" tvg-logo="https://logo.huhu.to/logo?c=2764553737.png" channel="TRENTINO TV" group-title="Other",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TRENTINO TV" tvg-name="TRENTINO TV" tvg-logo="" channel="TRENTINO TV" group-title="Other",TRENTINO TV
-https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TRSPORT" tvg-name="TRSPORT" tvg-logo="" channel="TRSPORT" group-title="Other",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1263,7 +1305,7 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://logo.huhu.to/logo?c=1351631603.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Bike.it" tvg-name="BIKE" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png" channel="Bike.it" group-title="Sport",BIKE
+#EXTINF:-1 tvg-id="BIKE.it" tvg-name="BIKE" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png" channel="BIKE.it" group-title="Sport",BIKE
 https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" tvg-logo="https://logo.huhu.to/logo?c=1692155417.png" channel="CACCIA" group-title="Sport",CACCIA
@@ -1290,13 +1332,16 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://logo.huhu.to/logo?c=3758728323.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
-https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="https://logo.huhu.to/logo?c=714472867.png" channel="PESCA" group-title="Sport",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SPORT ITALIA SOLO CALCIO" tvg-name="SPORT ITALIA SOLO CALCIO" tvg-logo="" channel="SPORT ITALIA SOLO CALCIO" group-title="Sport",SPORT ITALIA SOLO CALCIO
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="" channel="PescaCaccia.it" group-title="Sport",PESCA E CACCIA
+https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://logo.huhu.to/logo?c=3342849313.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
@@ -1307,12 +1352,6 @@ https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://logo.huhu.to/logo?c=3213195143.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="ALMA TV" tvg-logo="https://logo.huhu.to/logo?c=4131113723.png" channel="AlmaTV.it" group-title="TV Sat",ALMA TV
 https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
@@ -1337,9 +1376,6 @@ https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://logo.huhu.to/logo?c=3758728323.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
-https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="" channel="QVC.it" group-title="TV Sat",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
