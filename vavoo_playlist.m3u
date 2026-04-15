@@ -1,0 +1,1198 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%201" tvg-name="RAI%201" tvg-chno="1" tvg-logo="https://logo.huhu.to/logo?c=875922788.png" group-title="Italy",RAI 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F875922788627becc98639
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%201" tvg-name="RAI%201" tvg-chno="1" tvg-logo="" group-title="Italy",RAI 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F122565375973a967da4f03
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%202" tvg-name="RAI%202" tvg-chno="2" tvg-logo="https://logo.huhu.to/logo?c=1939210164.png" group-title="Italy",RAI 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1939210164cf0608420d67
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%202" tvg-name="RAI%202" tvg-chno="2" tvg-logo="" group-title="Italy",RAI 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F246253359a81d94887441
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%203" tvg-name="RAI%203" tvg-chno="3" tvg-logo="https://logo.huhu.to/logo?c=1324733956.png" group-title="Italy",RAI 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1324733956dd45e42ab076
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%203" tvg-name="RAI%203" tvg-chno="3" tvg-logo="" group-title="Italy",RAI 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F869117599e36bb7de752c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%204" tvg-name="RETE%204" tvg-chno="4" tvg-logo="https://logo.huhu.to/logo?c=4198218214.png" group-title="Italy",RETE 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4198218214cee07ebbc292
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%204" tvg-name="RETE%204" tvg-chno="4" tvg-logo="" group-title="Italy",RETE 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22357320045f329c720096
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%205" tvg-name="CANALE%205" tvg-chno="5" tvg-logo="https://logo.huhu.to/logo?c=1534161807.png" group-title="Italy",CANALE 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15341618078b08a3db572d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%205" tvg-name="CANALE%205" tvg-chno="5" tvg-logo="" group-title="Italy",CANALE 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F110155966670807e698f7d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ITALIA%201" tvg-name="ITALIA%201" tvg-chno="6" tvg-logo="https://logo.huhu.to/logo?c=663536394.png" group-title="Italy",ITALIA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F663536394520458805ef6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20NOVE" tvg-name="DISCOVERY%20NOVE" tvg-chno="9" tvg-logo="" group-title="Italy",DISCOVERY NOVE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1574591400f5a3b24c62fc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NOVE" tvg-name="NOVE" tvg-chno="9" tvg-logo="https://logo.huhu.to/logo?c=867216452.png" group-title="Italy",NOVE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F867216452ba4d42b41ada
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%204" tvg-name="RAI%204" tvg-chno="10" tvg-logo="https://logo.huhu.to/logo?c=4241820180.png" group-title="Italy",RAI 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4241820180667f1d89110e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%204" tvg-name="RAI%204" tvg-chno="10" tvg-logo="" group-title="Italy",RAI 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2179822223e6f7fefa408e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%204K" tvg-name="RAI%204K" tvg-chno="10" tvg-logo="https://logo.huhu.to/logo?c=2049087681.png" group-title="Italy",RAI 4K
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2049087681c31592c6b362
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="IRIS" tvg-name="IRIS" tvg-chno="11" tvg-logo="https://logo.huhu.to/logo?c=576490047.png" group-title="Italy",IRIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F576490047036ac0227958
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%20IRIS" tvg-name="MEDIASET%20IRIS" tvg-chno="11" tvg-logo="" group-title="Italy",MEDIASET IRIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23919988fc371eea2329
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%205" tvg-name="RAI%205" tvg-chno="13" tvg-logo="https://logo.huhu.to/logo?c=3249873828.png" group-title="Italy",RAI 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3249873828c4ad4d2c1d15
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%205" tvg-name="RAI%205" tvg-chno="13" tvg-logo="" group-title="Italy",RAI 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31633805432b7c33717323
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20MOVIE" tvg-name="RAI%20MOVIE" tvg-chno="14" tvg-logo="https://logo.huhu.to/logo?c=2835672487.png" group-title="Italy",RAI MOVIE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2835672487db54f8727bf9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20MOVIE" tvg-name="RAI%20MOVIE" tvg-chno="14" tvg-logo="" group-title="Italy",RAI MOVIE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1925964148b9cb23cc2bce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20PREMIUM" tvg-name="RAI%20PREMIUM" tvg-chno="15" tvg-logo="https://logo.huhu.to/logo?c=2861734300.png" group-title="Italy",RAI PREMIUM
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28617343009ba70ce123ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20PREMIUM" tvg-name="RAI%20PREMIUM" tvg-chno="15" tvg-logo="" group-title="Italy",RAI PREMIUM
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F282845555296ba7681a581
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%20EXTRA" tvg-name="MEDIASET%20EXTRA" tvg-chno="17" tvg-logo="https://logo.huhu.to/logo?c=477466531.png" group-title="Italy",MEDIASET EXTRA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4774665319f73c392df0e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV2000" tvg-name="TV2000" tvg-chno="18" tvg-logo="" group-title="Italy",TV2000
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11337349729837365ad79b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CIELO" tvg-name="CIELO" tvg-chno="19" tvg-logo="https://logo.huhu.to/logo?c=2719953688.png" group-title="Italy",CIELO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27199536882db77bf0ce4c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CIELO" tvg-name="CIELO" tvg-chno="19" tvg-logo="" group-title="Italy",CIELO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3743894403dc7e6005c138
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="20%20MEDIASET" tvg-name="20%20MEDIASET" tvg-chno="20" tvg-logo="https://logo.huhu.to/logo?c=1230338185.png" group-title="Italy",20 MEDIASET
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12303381856673f2a33deb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20SPORT" tvg-name="RAI%20SPORT" tvg-chno="21" tvg-logo="https://logo.huhu.to/logo?c=2924135092.png" group-title="Italy",RAI SPORT
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29241350927e983d18bd31
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20SPORT" tvg-name="RAI%20SPORT" tvg-chno="21" tvg-logo="" group-title="Italy",RAI SPORT
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F55173022458f32c70e30a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20SPORT%2B" tvg-name="RAI%20SPORT%2B" tvg-chno="21" tvg-logo="" group-title="Italy",RAI SPORT+
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F843891896d79f7a764c19
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20STORIA" tvg-name="RAI%20STORIA" tvg-chno="23" tvg-logo="https://logo.huhu.to/logo?c=78838793.png" group-title="Italy",RAI STORIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F788387936f9a9f4a81c4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20STORIA" tvg-name="RAI%20STORIA" tvg-chno="23" tvg-logo="" group-title="Italy",RAI STORIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F57338653b83f61385a9f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20NEWS%2024" tvg-name="RAI%20NEWS%2024" tvg-chno="24" tvg-logo="https://logo.huhu.to/logo?c=2272923972.png" group-title="Italy",RAI NEWS 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22729239721838600694f7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20NEWS%2024" tvg-name="RAI%20NEWS%2024" tvg-chno="24" tvg-logo="" group-title="Italy",RAI NEWS 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2239645272d37ede79369f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-chno="26" tvg-logo="https://logo.huhu.to/logo?c=3008151733.png" group-title="Italy",DMAX
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3008151733b9915486ff45
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-chno="26" tvg-logo="" group-title="Italy",DMAX
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3803638765756268d23edc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="REAL%20TIME" tvg-name="REAL%20TIME" tvg-chno="31" tvg-logo="https://logo.huhu.to/logo?c=1574975196.png" group-title="Italy",REAL TIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F157497519660249c278f94
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="REAL%20TIME" tvg-name="REAL%20TIME" tvg-chno="31" tvg-logo="" group-title="Italy",REAL TIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2251241999722578d55332
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20FOCUS" tvg-name="DISCOVERY%20FOCUS" tvg-chno="35" tvg-logo="" group-title="Italy",DISCOVERY FOCUS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21132730647ae733a10331
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FOCUS" tvg-name="FOCUS" tvg-chno="35" tvg-logo="https://logo.huhu.to/logo?c=3439223610.png" group-title="Italy",FOCUS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3439223610a4fec93d907a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FOCUS" tvg-name="FOCUS" tvg-chno="35" tvg-logo="" group-title="Italy",FOCUS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29825504332b9997336c1e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTL%20102.5" tvg-name="RTL%20102.5" tvg-chno="36" tvg-logo="https://logo.huhu.to/logo?c=3168132911.png" group-title="Italy",RTL 102.5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3168132911491b6a85a6e2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTL%20102.5" tvg-name="RTL%20102.5" tvg-chno="36" tvg-logo="" group-title="Italy",RTL 102.5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1729811452a70dafd8f6ba
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GIALLO" tvg-name="GIALLO" tvg-chno="38" tvg-logo="https://logo.huhu.to/logo?c=2373936189.png" group-title="Italy",GIALLO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F237393618912929d56c67e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GIALLO" tvg-name="GIALLO" tvg-chno="38" tvg-logo="" group-title="Italy",GIALLO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40604994550f228d5b9b59
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TOP%20CRIME" tvg-name="TOP%20CRIME" tvg-chno="39" tvg-logo="https://logo.huhu.to/logo?c=269503091.png" group-title="Italy",TOP CRIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F269503091e10b2c24af1d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TOP%20CRIME" tvg-name="TOP%20CRIME" tvg-chno="39" tvg-logo="" group-title="Italy",TOP CRIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3420407456fb80f4ceda0b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-chno="40" tvg-logo="https://logo.huhu.to/logo?c=3373510242.png" group-title="Italy",BOING
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33735102423e6e76be9ed3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-chno="40" tvg-logo="" group-title="Italy",BOING
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3022771961a341b55db1c5
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20K2" tvg-name="DISCOVERY%20K2" tvg-chno="41" tvg-logo="" group-title="Italy",DISCOVERY K2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3037871903561253a95659
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="K2" tvg-name="K2" tvg-chno="41" tvg-logo="https://logo.huhu.to/logo?c=2255724318.png" group-title="Italy",K2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22557243183ffd471ea8ec
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="K2" tvg-name="K2" tvg-chno="41" tvg-logo="" group-title="Italy",K2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11090349bae706bd9ec4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20GULP" tvg-name="RAI%20GULP" tvg-chno="42" tvg-logo="https://logo.huhu.to/logo?c=1901652742.png" group-title="Italy",RAI GULP
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F190165274240d2e779ea96
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20GULP" tvg-name="RAI%20GULP" tvg-chno="42" tvg-logo="" group-title="Italy",RAI GULP
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1803677691b051ba6d360f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20YOYO" tvg-name="RAI%20YOYO" tvg-chno="43" tvg-logo="https://logo.huhu.to/logo?c=1785501924.png" group-title="Italy",RAI YOYO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178550192490bfbe154312
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20YOYO" tvg-name="RAI%20YOYO" tvg-chno="43" tvg-logo="" group-title="Italy",RAI YOYO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1890950169c0c68782bbe1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FRISBEE" tvg-name="FRISBEE" tvg-chno="44" tvg-logo="https://logo.huhu.to/logo?c=1995860185.png" group-title="Italy",FRISBEE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1995860185ce22f3fae905
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-chno="46" tvg-logo="https://logo.huhu.to/logo?c=1987220436.png" group-title="Italy",CARTOONITO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19872204364fe52737bf18
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-chno="46" tvg-logo="" group-title="Italy",CARTOONITO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1907000512776efa40e32a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-chno="46" tvg-logo="" group-title="Italy",CARTOONITO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F217871728282294e996afe
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%21" tvg-name="SUPER%21" tvg-chno="47" tvg-logo="https://logo.huhu.to/logo?c=3550030443.png" group-title="Italy",SUPER!
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3550030443fb56cbe586ef
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%21" tvg-name="SUPER%21" tvg-chno="47" tvg-logo="" group-title="Italy",SUPER!
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2900362153b8a056cb86c0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ITALIA%202" tvg-name="ITALIA%202" tvg-chno="66" tvg-logo="https://logo.huhu.to/logo?c=1613543898.png" group-title="Italy",ITALIA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1613543898fd67f91cf2e0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%20ITALIA%202" tvg-name="MEDIASET%20ITALIA%202" tvg-chno="66" tvg-logo="" group-title="Italy",MEDIASET ITALIA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3538009430947511be2991
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RSI%20LA%201" tvg-name="RSI%20LA%201" tvg-chno="71" tvg-logo="" group-title="Italy",RSI LA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24556102030a38fc13c387
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RSI%20LA%201" tvg-name="RSI%20LA%201" tvg-chno="71" tvg-logo="" group-title="Italy",RSI LA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22903950460d6b257bf610
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RSI%20LA%202" tvg-name="RSI%20LA%202" tvg-chno="72" tvg-logo="" group-title="Italy",RSI LA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3590183307ca309aa6be37
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RSI%20LA%202" tvg-name="RSI%20LA%202" tvg-chno="72" tvg-logo="" group-title="Italy",RSI LA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3475299702c52e31a7073f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DAZN%201" tvg-name="DAZN%201" tvg-chno="87" tvg-logo="https://logo.huhu.to/logo?c=1376440573.png" group-title="Italy",DAZN 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1376440573d46b3d682e20
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DAZN%202" tvg-name="DAZN%202" tvg-chno="88" tvg-logo="https://logo.huhu.to/logo?c=363506221.png" group-title="Italy",DAZN 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3635062218e0132c616db
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20UNO" tvg-name="SKY%20SPORT%20UNO" tvg-chno="90" tvg-logo="https://logo.huhu.to/logo?c=210669162.png" group-title="Italy",SKY SPORT UNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F210669162201ec2365574
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20UNO" tvg-name="SKY%20SPORT%20UNO" tvg-chno="90" tvg-logo="" group-title="Italy",SKY SPORT UNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3192996672d2c923be0346
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20ARENA" tvg-name="SKY%20SPORT%20ARENA" tvg-chno="91" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png" group-title="Italy",SKY SPORT ARENA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3007400791d5bc640207c3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20ARENA" tvg-name="SKY%20SPORT%20ARENA" tvg-chno="91" tvg-logo="" group-title="Italy",SKY SPORT ARENA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25559607139e6fd9b93dd6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%201" tvg-name="EUROSPORT%201" tvg-chno="92" tvg-logo="https://logo.huhu.to/logo?c=3481346857.png" group-title="Italy",EUROSPORT 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34813468571b25fb16646d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%201" tvg-name="EUROSPORT%201" tvg-chno="92" tvg-logo="" group-title="Italy",EUROSPORT 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F34480753177564a146da63
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%202" tvg-name="EUROSPORT%202" tvg-chno="93" tvg-logo="https://logo.huhu.to/logo?c=2283887097.png" group-title="Italy",EUROSPORT 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2283887097a4248311ff27
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%202" tvg-name="EUROSPORT%202" tvg-chno="93" tvg-logo="" group-title="Italy",EUROSPORT 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23176844530f9ee58ada3e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%202%20TIMVISION" tvg-name="EUROSPORT%202%20TIMVISION" tvg-chno="93" tvg-logo="" group-title="Italy",EUROSPORT 2 TIMVISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11002614150ec811c243eb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20CALCIO" tvg-name="SKY%20SPORT%20CALCIO" tvg-chno="97" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" group-title="Italy",SKY SPORT CALCIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1665920101d5db640ce7e6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20CALCIO" tvg-name="SKY%20SPORT%20CALCIO" tvg-chno="97" tvg-logo="" group-title="Italy",SKY SPORT CALCIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F449990998077a7691828f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20F1" tvg-name="SKY%20SPORT%20F1" tvg-chno="98" tvg-logo="https://logo.huhu.to/logo?c=4246774056.png" group-title="Italy",SKY SPORT F1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42467740561588897497f2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20MOTOGP" tvg-name="SKY%20SPORT%20MOTOGP" tvg-chno="104" tvg-logo="" group-title="Italy",SKY SPORT MOTOGP
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2090703806f47d7eb551ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20TENNIS" tvg-name="SKY%20SPORT%20TENNIS" tvg-chno="105" tvg-logo="https://logo.huhu.to/logo?c=2100771782.png" group-title="Italy",SKY SPORT TENNIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F210077178262e76f204fa6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20TENNIS" tvg-name="SKY%20SPORT%20TENNIS" tvg-chno="105" tvg-logo="" group-title="Italy",SKY SPORT TENNIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F78546677680f40b76841
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20GOLF" tvg-name="SKY%20SPORT%20GOLF" tvg-chno="111" tvg-logo="https://logo.huhu.to/logo?c=729945219.png" group-title="Italy",SKY SPORT GOLF
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F729945219d6146597896a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20NBA" tvg-name="SKY%20SPORT%20NBA" tvg-chno="112" tvg-logo="https://logo.huhu.to/logo?c=2711959620.png" group-title="Italy",SKY SPORT NBA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F271195962000118dca31ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20NBA" tvg-name="SKY%20SPORT%20NBA" tvg-chno="112" tvg-logo="" group-title="Italy",SKY SPORT NBA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3268253262aec282eb346
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20ARTE" tvg-name="SKY%20ARTE" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1806815496.png" group-title="Italy",SKY ARTE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18068154966d18d1d58a9c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20ARTE" tvg-name="SKY%20ARTE" tvg-chno="200" tvg-logo="" group-title="Italy",SKY ARTE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1902695925283bcfc576b0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20ATLANTIC" tvg-name="SKY%20ATLANTIC" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1421393119.png" group-title="Italy",SKY ATLANTIC
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1421393119c33a45327918
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20ATLANTIC" tvg-name="SKY%20ATLANTIC" tvg-chno="200" tvg-logo="" group-title="Italy",SKY ATLANTIC
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1482866609814ff0b05ac7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20ACTION" tvg-name="SKY%20CINEMA%20ACTION" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=3812796171.png" group-title="Italy",SKY CINEMA ACTION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F381279617198e7a1b969ee
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20ACTION" tvg-name="SKY%20CINEMA%20ACTION" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA ACTION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11441287266db50fc09b62
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20ACTION" tvg-name="SKY%20CINEMA%20ACTION" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA ACTION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2242741766a460e21385e6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20COLLECTION" tvg-name="SKY%20CINEMA%20COLLECTION" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1759653413.png" group-title="Italy",SKY CINEMA COLLECTION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1759653413f7025450e6b1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20COLLECTION" tvg-name="SKY%20CINEMA%20COLLECTION" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA COLLECTION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F352583705711c4cbe44bbb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20COMEDY" tvg-name="SKY%20CINEMA%20COMEDY" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=500203271.png" group-title="Italy",SKY CINEMA COMEDY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F500203271d58941028e95
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20COMEDY" tvg-name="SKY%20CINEMA%20COMEDY" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA COMEDY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3131104474771735b548ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20DRAMA" tvg-name="SKY%20CINEMA%20DRAMA" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1235530177.png" group-title="Italy",SKY CINEMA DRAMA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F123553017707540030adf9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20DUE" tvg-name="SKY%20CINEMA%20DUE" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1228534500.png" group-title="Italy",SKY CINEMA DUE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1228534500ffff855fff55
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20DUE" tvg-name="SKY%20CINEMA%20DUE" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA DUE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2330574729acc52d969174
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20FAMILY" tvg-name="SKY%20CINEMA%20FAMILY" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=415795144.png" group-title="Italy",SKY CINEMA FAMILY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41579514488d1c92affa7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20FAMILY" tvg-name="SKY%20CINEMA%20FAMILY" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA FAMILY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32165161175e13c1d3f56a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20ROMANCE" tvg-name="SKY%20CINEMA%20ROMANCE" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2890008905.png" group-title="Italy",SKY CINEMA ROMANCE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2890008905a6ae9fa14809
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20ROMANCE" tvg-name="SKY%20CINEMA%20ROMANCE" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA ROMANCE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F128126488561be9a87267f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20SUSPENSE" tvg-name="SKY%20CINEMA%20SUSPENSE" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1820997555.png" group-title="Italy",SKY CINEMA SUSPENSE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18209975559b8c5058ae7f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20SUSPENSE" tvg-name="SKY%20CINEMA%20SUSPENSE" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA SUSPENSE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3060043751014db62f5b06
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20UNO" tvg-name="SKY%20CINEMA%20UNO" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2872151911.png" group-title="Italy",SKY CINEMA UNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28721519114f66aff68e22
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20UNO" tvg-name="SKY%20CINEMA%20UNO" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA UNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17596257388e83c18bb676
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CINEMA%20UNO%20%2B24" tvg-name="SKY%20CINEMA%20UNO%20%2B24" tvg-chno="200" tvg-logo="" group-title="Italy",SKY CINEMA UNO +24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16998765309700e7076450
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20CRIME" tvg-name="SKY%20CRIME" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=354961873.png" group-title="Italy",SKY CRIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F354961873760dbb54cfa7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20DOCUMENTARIES" tvg-name="SKY%20DOCUMENTARIES" tvg-chno="200" tvg-logo="" group-title="Italy",SKY DOCUMENTARIES
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F46428198113d67e3a4e0e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20INVESTIGATION" tvg-name="SKY%20INVESTIGATION" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1968640789.png" group-title="Italy",SKY INVESTIGATION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19686407898d20b9ce24d1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%201" tvg-name="SKY%20PRIMAFILA%201" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1944682394.png" group-title="Italy",SKY PRIMAFILA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F194468239430d8fe263231
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%201" tvg-name="SKY%20PRIMAFILA%201" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1492183364e2c25c729efa
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2010" tvg-name="SKY%20PRIMAFILA%2010" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 10
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4272937805ce3f4b8a4a12
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2010" tvg-name="SKY%20PRIMAFILA%2010" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 10
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2268489342059d1f4882c8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2011" tvg-name="SKY%20PRIMAFILA%2011" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 11
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3285185277cd2292829163
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2012" tvg-name="SKY%20PRIMAFILA%2012" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 12
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2221901869db7a5b77a267
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2013" tvg-name="SKY%20PRIMAFILA%2013" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 13
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F310480937323455c2778b9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2014" tvg-name="SKY%20PRIMAFILA%2014" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 14
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18766170987dd5e4939c9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2015" tvg-name="SKY%20PRIMAFILA%2015" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 15
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F911168573d54b185731b5
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2016" tvg-name="SKY%20PRIMAFILA%2016" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 16
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F191150052585174f4ea582
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%2017" tvg-name="SKY%20PRIMAFILA%2017" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 17
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1284441949890c3c5c3d9d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%202" tvg-name="SKY%20PRIMAFILA%202" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=877200714.png" group-title="Italy",SKY PRIMAFILA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8772007144e30fd3ca161
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%202" tvg-name="SKY%20PRIMAFILA%202" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F525374356eb78c097e6a2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%203" tvg-name="SKY%20PRIMAFILA%203" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=153693434.png" group-title="Italy",SKY PRIMAFILA 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15369343494e510eea4a0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%203" tvg-name="SKY%20PRIMAFILA%203" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F573618724778189abe38c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%204" tvg-name="SKY%20PRIMAFILA%204" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=3137990890.png" group-title="Italy",SKY PRIMAFILA 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31379908902c3fc54d6e13
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%204" tvg-name="SKY%20PRIMAFILA%204" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2416993844407639cb4e74
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%205" tvg-name="SKY%20PRIMAFILA%205" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2255083866.png" group-title="Italy",SKY PRIMAFILA 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22550838661912f18327a2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%205" tvg-name="SKY%20PRIMAFILA%205" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29098187562943fdca9002
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%206" tvg-name="SKY%20PRIMAFILA%206" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=3251217290.png" group-title="Italy",SKY PRIMAFILA 6
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F325121729090a7b71fb865
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%206" tvg-name="SKY%20PRIMAFILA%206" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 6
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39395136840a7593b75855
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%207" tvg-name="SKY%20PRIMAFILA%207" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=4238969402.png" group-title="Italy",SKY PRIMAFILA 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4238969402e69feff53112
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%207" tvg-name="SKY%20PRIMAFILA%207" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3618643172a26b31eba4b4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%208" tvg-name="SKY%20PRIMAFILA%208" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2130255339.png" group-title="Italy",SKY PRIMAFILA 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F213025533947852942a90f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%208" tvg-name="SKY%20PRIMAFILA%208" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14407790614bc8041c450d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%209" tvg-name="SKY%20PRIMAFILA%209" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=1134113883.png" group-title="Italy",SKY PRIMAFILA 9
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F113411388318bf0ef81722
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20PRIMAFILA%209" tvg-name="SKY%20PRIMAFILA%209" tvg-chno="200" tvg-logo="" group-title="Italy",SKY PRIMAFILA 9
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17532606771304e2497369
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SERIE" tvg-name="SKY%20SERIE" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=836680112.png" group-title="Italy",SKY SERIE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F83668011205f936fa3b65
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%2024" tvg-name="SKY%20SPORT%2024" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2775802255.png" group-title="Italy",SKY SPORT 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F277580225585f503fbfc87
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%2024" tvg-name="SKY%20SPORT%2024" tvg-chno="200" tvg-logo="" group-title="Italy",SKY SPORT 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F344556251909fe0b312736
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20MAX" tvg-name="SKY%20SPORT%20MAX" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2066326916.png" group-title="Italy",SKY SPORT MAX
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F206632691678b853b73adb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORT%20MOTO%20GP" tvg-name="SKY%20SPORT%20MOTO%20GP" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=3036316886.png" group-title="Italy",SKY SPORT MOTO GP
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30363168866e9eeb997936
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SPORTS%20F1" tvg-name="SKY%20SPORTS%20F1" tvg-chno="200" tvg-logo="" group-title="Italy",SKY SPORTS F1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20SUPER%20TENNIS" tvg-name="SKY%20SUPER%20TENNIS" tvg-chno="200" tvg-logo="" group-title="Italy",SKY SUPER TENNIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F55828211836e421b20575
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20TG%2024" tvg-name="SKY%20TG%2024" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=3376031355.png" group-title="Italy",SKY TG 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33760313550167605877f1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20TG%2024" tvg-name="SKY%20TG%2024" tvg-chno="200" tvg-logo="" group-title="Italy",SKY TG 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3180571288b987548e3fe
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY%20UNO" tvg-name="SKY%20UNO" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2130523218.png" group-title="Italy",SKY UNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2130523218823893ad0255
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PRIMA%20TV" tvg-name="PRIMA%20TV" tvg-chno="300" tvg-logo="https://logo.huhu.to/logo?c=530658045.png" group-title="Italy",PRIMA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F530658045774685c88ed8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PRIMA%20TV" tvg-name="PRIMA%20TV" tvg-chno="300" tvg-logo="" group-title="Italy",PRIMA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F91764224e4ebfa90eace
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="111%20TV" tvg-name="111%20TV" tvg-chno="156" tvg-logo="https://logo.huhu.to/logo?c=1600139819.png" group-title="Italy",111 TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F160013981909ce6c338fef
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="12%20TV%20PARMA" tvg-name="12%20TV%20PARMA" tvg-chno="157" tvg-logo="https://logo.huhu.to/logo?c=631792369.png" group-title="Italy",12 TV PARMA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F631792369df7bdd7e9291
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="27%20TWENTY%20SEVEN" tvg-name="27%20TWENTY%20SEVEN" tvg-chno="158" tvg-logo="" group-title="Italy",27 TWENTY SEVEN
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6087746837741766a74b3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="27%20TWENTYSEVEN" tvg-name="27%20TWENTYSEVEN" tvg-chno="159" tvg-logo="" group-title="Italy",27 TWENTYSEVEN
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F80896559d4a6e09d36f1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="51%20RADIO%20TV" tvg-name="51%20RADIO%20TV" tvg-chno="160" tvg-logo="https://logo.huhu.to/logo?c=4216245552.png" group-title="Italy",51 RADIO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42162455520e0fbef4fafe
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="7%20YOU%20%26%20ME" tvg-name="7%20YOU%20%26%20ME" tvg-chno="161" tvg-logo="" group-title="Italy",7 YOU & ME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178775175831e62385f371
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="70-80.IT" tvg-name="70-80.IT" tvg-chno="162" tvg-logo="https://logo.huhu.to/logo?c=3701871205.png" group-title="Italy",70-80.IT
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3701871205057c15adedda
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="A3" tvg-name="A3" tvg-chno="163" tvg-logo="https://logo.huhu.to/logo?c=445158856.png" group-title="Italy",A3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F445158856541438cd842a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ACI%20SPORT%20TV" tvg-name="ACI%20SPORT%20TV" tvg-chno="164" tvg-logo="https://logo.huhu.to/logo?c=1351631603.png" group-title="Italy",ACI SPORT TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13516316035c18ca000fe1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ALMA%20TV" tvg-name="ALMA%20TV" tvg-chno="165" tvg-logo="https://logo.huhu.to/logo?c=4131113723.png" group-title="Italy",ALMA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41311137232a677f05622a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ALTO%20ADIGE%20TV" tvg-name="ALTO%20ADIGE%20TV" tvg-chno="166" tvg-logo="https://logo.huhu.to/logo?c=68845853.png" group-title="Italy",ALTO ADIGE TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F68845853044f9c95e43e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ANIMAL%20PLANET" tvg-name="ANIMAL%20PLANET" tvg-chno="167" tvg-logo="" group-title="Italy",ANIMAL PLANET
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F190887752614ef25f5e1fd
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ANTENNA%202" tvg-name="ANTENNA%202" tvg-chno="168" tvg-logo="https://logo.huhu.to/logo?c=3014001260.png" group-title="Italy",ANTENNA 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30140012609b4bf5e8d3b7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ARANCIA%20TV" tvg-name="ARANCIA%20TV" tvg-chno="169" tvg-logo="https://logo.huhu.to/logo?c=1792428355.png" group-title="Italy",ARANCIA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1792428355edae51bf7896
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ARTE%20NETWORK" tvg-name="ARTE%20NETWORK" tvg-chno="170" tvg-logo="https://logo.huhu.to/logo?c=430570853.png" group-title="Italy",ARTE NETWORK
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F430570853d0b7479b224d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="AURORA%20ARTE" tvg-name="AURORA%20ARTE" tvg-chno="171" tvg-logo="https://logo.huhu.to/logo?c=3267376899.png" group-title="Italy",AURORA ARTE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3267376899f976b1a231c0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="AVENGERS%20GRIMM%20CHANNEL" tvg-name="AVENGERS%20GRIMM%20CHANNEL" tvg-chno="172" tvg-logo="" group-title="Italy",AVENGERS GRIMM CHANNEL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1506307932300e27c2fd43
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BABY%20TV" tvg-name="BABY%20TV" tvg-chno="173" tvg-logo="https://logo.huhu.to/logo?c=3938501125.png" group-title="Italy",BABY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F39385011257cd02ab803dc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BBC%20TOP%20GEAR%20ITALY" tvg-name="BBC%20TOP%20GEAR%20ITALY" tvg-chno="174" tvg-logo="https://logo.huhu.to/logo?c=2330946937.png" group-title="Italy",BBC TOP GEAR ITALY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2330946937dd53b634ff71
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BELLA%20RADIO%20TV" tvg-name="BELLA%20RADIO%20TV" tvg-chno="175" tvg-logo="https://logo.huhu.to/logo?c=1585005860.png" group-title="Italy",BELLA RADIO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15850058604ed339a2ed20
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BELLLA%20%26%20MONELLA%20TV" tvg-name="BELLLA%20%26%20MONELLA%20TV" tvg-chno="176" tvg-logo="https://logo.huhu.to/logo?c=161144675.png" group-title="Italy",BELLLA & MONELLA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1611446752ef81feae9ae
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BERGAMO%20TV" tvg-name="BERGAMO%20TV" tvg-chno="177" tvg-logo="https://logo.huhu.to/logo?c=2476433040.png" group-title="Italy",BERGAMO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2476433040575c4662d870
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BIKE" tvg-name="BIKE" tvg-chno="178" tvg-logo="https://logo.huhu.to/logo?c=3095895412.png" group-title="Italy",BIKE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F309589541224b3a9c5030f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-chno="179" tvg-logo="https://logo.huhu.to/logo?c=2532635659.png" group-title="Italy",BLAZE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25326356590c9338734e4b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BLOOMBERG%20TV" tvg-name="BLOOMBERG%20TV" tvg-chno="180" tvg-logo="" group-title="Italy",BLOOMBERG TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F116299718d713a2de061f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BLOOMBERG%20TV%204K" tvg-name="BLOOMBERG%20TV%204K" tvg-chno="181" tvg-logo="https://logo.huhu.to/logo?c=3911047486.png" group-title="Italy",BLOOMBERG TV 4K
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3911047486fb5f634d6343
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-chno="182" tvg-logo="https://logo.huhu.to/logo?c=2705627802.png" group-title="Italy",BOOMERANG
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F270562780243aa8d36614f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BYOBLU" tvg-name="BYOBLU" tvg-chno="183" tvg-logo="https://logo.huhu.to/logo?c=2826111812.png" group-title="Italy",BYOBLU
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2826111812745ee617058d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" tvg-chno="184" tvg-logo="https://logo.huhu.to/logo?c=1692155417.png" group-title="Italy",CACCIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1692155417ce364b21d0ca
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CACCIA%20E%20PESCA" tvg-name="CACCIA%20E%20PESCA" tvg-chno="185" tvg-logo="https://logo.huhu.to/logo?c=3639213638.png" group-title="Italy",CACCIA E PESCA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3639213638a7c6a2cc326e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CAFE%2024" tvg-name="CAFE%2024" tvg-chno="186" tvg-logo="https://logo.huhu.to/logo?c=1625923783.png" group-title="Italy",CAFE 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1625923783d5a6dda233b3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CAMERA%20DEI%20DEPUTATI" tvg-name="CAMERA%20DEI%20DEPUTATI" tvg-chno="187" tvg-logo="https://logo.huhu.to/logo?c=4253692893.png" group-title="Italy",CAMERA DEI DEPUTATI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4253692893cca91a1bbfde
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%20122" tvg-name="CANALE%20122" tvg-chno="188" tvg-logo="https://logo.huhu.to/logo?c=466718273.png" group-title="Italy",CANALE 122
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F466718273d17d85003ebc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%202" tvg-name="CANALE%202" tvg-chno="189" tvg-logo="https://logo.huhu.to/logo?c=3914444703.png" group-title="Italy",CANALE 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3914444703fd1a0c69d728
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%2021%20CAMPANIA" tvg-name="CANALE%2021%20CAMPANIA" tvg-chno="190" tvg-logo="https://logo.huhu.to/logo?c=3906007886.png" group-title="Italy",CANALE 21 CAMPANIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F390600788675c13850cd70
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%2021%20EXTRA" tvg-name="CANALE%2021%20EXTRA" tvg-chno="191" tvg-logo="" group-title="Italy",CANALE 21 EXTRA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24545581364a76ecd911e4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%207" tvg-name="CANALE%207" tvg-chno="192" tvg-logo="https://logo.huhu.to/logo?c=565256431.png" group-title="Italy",CANALE 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F565256431b8fb5052f1a2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%207" tvg-name="CANALE%207" tvg-chno="193" tvg-logo="https://logo.huhu.to/logo?c=996680722.png" group-title="Italy",CANALE 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F996680722dbf763c9bb56
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%208" tvg-name="CANALE%208" tvg-chno="194" tvg-logo="https://logo.huhu.to/logo?c=2749478718.png" group-title="Italy",CANALE 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2749478718a361866152ca
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%208" tvg-name="CANALE%208" tvg-chno="195" tvg-logo="" group-title="Italy",CANALE 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31075009959a8de9232b11
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CANALE%20DIECI" tvg-name="CANALE%20DIECI" tvg-chno="196" tvg-logo="https://logo.huhu.to/logo?c=1431729360.png" group-title="Italy",CANALE DIECI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F143172936059b3a0bf594c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARINA%20TV" tvg-name="CARINA%20TV" tvg-chno="197" tvg-logo="https://logo.huhu.to/logo?c=1527236924.png" group-title="Italy",CARINA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1527236924d8d52d57c2e3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARTOON%20NETWORK" tvg-name="CARTOON%20NETWORK" tvg-chno="198" tvg-logo="https://logo.huhu.to/logo?c=1744435623.png" group-title="Italy",CARTOON NETWORK
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1744435623b422a758373c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CARTOON%20NETWORK" tvg-name="CARTOON%20NETWORK" tvg-chno="199" tvg-logo="" group-title="Italy",CARTOON NETWORK
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1289777017c50e3cf3fd74
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CATFISH" tvg-name="CATFISH" tvg-chno="200" tvg-logo="https://logo.huhu.to/logo?c=2381583828.png" group-title="Italy",CATFISH
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23815838281e427554084f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CINE%2034" tvg-name="CINE%2034" tvg-chno="201" tvg-logo="https://logo.huhu.to/logo?c=62558606.png" group-title="Italy",CINE 34
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F625586063b81b5ccae3f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CINE%2034%20MEDIASET" tvg-name="CINE%2034%20MEDIASET" tvg-chno="202" tvg-logo="" group-title="Italy",CINE 34 MEDIASET
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17686701870faa9fea0a38
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CLASSICA" tvg-name="CLASSICA" tvg-chno="203" tvg-logo="https://logo.huhu.to/logo?c=64060922.png" group-title="Italy",CLASSICA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F640609226bada55274ff
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="COMEDY%20CENTRAL" tvg-name="COMEDY%20CENTRAL" tvg-chno="204" tvg-logo="https://logo.huhu.to/logo?c=3658277450.png" group-title="Italy",COMEDY CENTRAL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F365827745096a993ffc066
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="COMEDY%20CENTRAL" tvg-name="COMEDY%20CENTRAL" tvg-chno="205" tvg-logo="" group-title="Italy",COMEDY CENTRAL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F433893159bf516cde9a97
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="COMPANY%20TV" tvg-name="COMPANY%20TV" tvg-chno="206" tvg-logo="https://logo.huhu.to/logo?c=1322483308.png" group-title="Italy",COMPANY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1322483308506652cfc631
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="COMPANY%20TV" tvg-name="COMPANY%20TV" tvg-chno="207" tvg-logo="" group-title="Italy",COMPANY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12254846645cb5a95a1f30
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CREMONA%201" tvg-name="CREMONA%201" tvg-chno="208" tvg-logo="https://logo.huhu.to/logo?c=4137427510.png" group-title="Italy",CREMONA 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4137427510ef362e6435fc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CRIME%20%2B%20INV" tvg-name="CRIME%20%2B%20INV" tvg-chno="209" tvg-logo="" group-title="Italy",CRIME + INV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F196833914960066715a573
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="CUSANO%20NEWS7" tvg-name="CUSANO%20NEWS7" tvg-chno="210" tvg-logo="https://logo.huhu.to/logo?c=861948627.png" group-title="Italy",CUSANO NEWS7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F861948627bb3b2465ad5a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DEEJAY%20TV" tvg-name="DEEJAY%20TV" tvg-chno="211" tvg-logo="https://logo.huhu.to/logo?c=963607327.png" group-title="Italy",DEEJAY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F963607327f90ada131395
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DEEJAY%20TV" tvg-name="DEEJAY%20TV" tvg-chno="212" tvg-logo="" group-title="Italy",DEEJAY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3802167244650eb7a51319
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20CHANNEL" tvg-name="DISCOVERY%20CHANNEL" tvg-chno="213" tvg-logo="https://logo.huhu.to/logo?c=1955739367.png" group-title="Italy",DISCOVERY CHANNEL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1955739367e1de6e90adc1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20CHANNEL" tvg-name="DISCOVERY%20CHANNEL" tvg-chno="214" tvg-logo="" group-title="Italy",DISCOVERY CHANNEL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F355484191439d5194fc358
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISCOVERY%20SCIENCE" tvg-name="DISCOVERY%20SCIENCE" tvg-chno="215" tvg-logo="https://logo.huhu.to/logo?c=528430841.png" group-title="Italy",DISCOVERY SCIENCE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5284308415938593b2e15
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISNEY%2B%20FILM" tvg-name="DISNEY%2B%20FILM" tvg-chno="216" tvg-logo="https://logo.huhu.to/logo?c=1264775727.png" group-title="Italy",DISNEY+ FILM
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1264775727d4145aa36927
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ELIVE%20TV%20BRESCIA" tvg-name="ELIVE%20TV%20BRESCIA" tvg-chno="217" tvg-logo="https://logo.huhu.to/logo?c=1521821490.png" group-title="Italy",ELIVE TV BRESCIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1521821490a62d4e3205da
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ENTELLA%20TV" tvg-name="ENTELLA%20TV" tvg-chno="218" tvg-logo="https://logo.huhu.to/logo?c=1371658771.png" group-title="Italy",ENTELLA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1371658771f5d431bd1ae6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EQU%20TV" tvg-name="EQU%20TV" tvg-chno="219" tvg-logo="https://logo.huhu.to/logo?c=2818586668.png" group-title="Italy",EQU TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28185866687e407e1edc60
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ESPANSIONE%20TV" tvg-name="ESPANSIONE%20TV" tvg-chno="220" tvg-logo="https://logo.huhu.to/logo?c=539484419.png" group-title="Italy",ESPANSIONE TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F53948441989c19aba3352
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ESPERIA%20TV" tvg-name="ESPERIA%20TV" tvg-chno="221" tvg-logo="https://logo.huhu.to/logo?c=3525104604.png" group-title="Italy",ESPERIA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3525104604d4e472fa9bd7
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ESPERIA%20TV%2018" tvg-name="ESPERIA%20TV%2018" tvg-chno="222" tvg-logo="" group-title="Italy",ESPERIA TV 18
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1812508372213288a6925f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ETV%20MARCHE" tvg-name="ETV%20MARCHE" tvg-chno="223" tvg-logo="" group-title="Italy",ETV MARCHE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F273312373c6b3b01f31cf
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EURO%20INDIE%20MUSIC%20CHART%20TV" tvg-name="EURO%20INDIE%20MUSIC%20CHART%20TV" tvg-chno="224" tvg-logo="https://logo.huhu.to/logo?c=3569731325.png" group-title="Italy",EURO INDIE MUSIC CHART TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35697313256d80f80b732e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EURO%20TV" tvg-name="EURO%20TV" tvg-chno="225" tvg-logo="" group-title="Italy",EURO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F422225837740225c1416e8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-chno="226" tvg-logo="https://logo.huhu.to/logo?c=490955579.png" group-title="Italy",EURONEWS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F49095557997f00b59c5b8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%204%20TIMVISION" tvg-name="EUROSPORT%204%20TIMVISION" tvg-chno="227" tvg-logo="" group-title="Italy",EUROSPORT 4 TIMVISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668185301194a1978c0b2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%205%20TIMVISION" tvg-name="EUROSPORT%205%20TIMVISION" tvg-chno="228" tvg-logo="" group-title="Italy",EUROSPORT 5 TIMVISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3667240765238d57794d79
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT%206%20TIMVISION" tvg-name="EUROSPORT%206%20TIMVISION" tvg-chno="229" tvg-logo="" group-title="Italy",EUROSPORT 6 TIMVISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3421031748051d1097ba07
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EXTRA%20TV" tvg-name="EXTRA%20TV" tvg-chno="230" tvg-logo="https://logo.huhu.to/logo?c=3365697389.png" group-title="Italy",EXTRA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33656973896c0d65694135
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FANO%20TV" tvg-name="FANO%20TV" tvg-chno="231" tvg-logo="" group-title="Italy",FANO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1798700028a88b50c2df9d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FASHION%20TV" tvg-name="FASHION%20TV" tvg-chno="232" tvg-logo="" group-title="Italy",FASHION TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3028319308fc52849f3d94
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-chno="233" tvg-logo="https://logo.huhu.to/logo?c=3255207570.png" group-title="Italy",FASHIONTV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3255207570b230d786fb10
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FM%20ITALIA" tvg-name="FM%20ITALIA" tvg-chno="234" tvg-logo="" group-title="Italy",FM ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6513881342f0388082aa1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FM%20ITALIA%20TV" tvg-name="FM%20ITALIA%20TV" tvg-chno="235" tvg-logo="https://logo.huhu.to/logo?c=32417864.png" group-title="Italy",FM ITALIA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3241786453834d6c74cc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FOOD%20NETWORK" tvg-name="FOOD%20NETWORK" tvg-chno="236" tvg-logo="https://logo.huhu.to/logo?c=2820683351.png" group-title="Italy",FOOD NETWORK
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2820683351b557bc63df61
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FOOD%20NETWORK" tvg-name="FOOD%20NETWORK" tvg-chno="237" tvg-logo="" group-title="Italy",FOOD NETWORK
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F276786104991c55564696b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-chno="238" tvg-logo="" group-title="Italy",FOX
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F56316060941df205a0842
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="FRANCE%2024" tvg-name="FRANCE%2024" tvg-chno="239" tvg-logo="https://logo.huhu.to/logo?c=2179686828.png" group-title="Italy",FRANCE 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F217968682876c9a8051121
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GAMBERO%20ROSSO" tvg-name="GAMBERO%20ROSSO" tvg-chno="240" tvg-logo="https://logo.huhu.to/logo?c=2481284739.png" group-title="Italy",GAMBERO ROSSO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2481284739a17519532b56
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GLOBUS%20TELEVISION" tvg-name="GLOBUS%20TELEVISION" tvg-chno="241" tvg-logo="" group-title="Italy",GLOBUS TELEVISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2116902817eb437d88bab6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GOLD%20TV" tvg-name="GOLD%20TV" tvg-chno="242" tvg-logo="https://logo.huhu.to/logo?c=2854396316.png" group-title="Italy",GOLD TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2854396316c4fc7fe60f75
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="GRANDUCATO" tvg-name="GRANDUCATO" tvg-chno="243" tvg-logo="https://logo.huhu.to/logo?c=942153014.png" group-title="Italy",GRANDUCATO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9421530140b5164a467be
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-chno="244" tvg-logo="" group-title="Italy",HGTV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28977827817ceeecfaf662
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-chno="245" tvg-logo="" group-title="Italy",HGTV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42489970292d2930202d0e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="HISTORY%20.C" tvg-name="HISTORY%20.C" tvg-chno="246" tvg-logo="https://logo.huhu.to/logo?c=317837654.png" group-title="Italy",HISTORY .C
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3178376547e2dcc234152
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="HISTORY%20.S" tvg-name="HISTORY%20.S" tvg-chno="247" tvg-logo="" group-title="Italy",HISTORY .S
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2134724757fd92e3286ea6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ICARO%20TV" tvg-name="ICARO%20TV" tvg-chno="248" tvg-logo="https://logo.huhu.to/logo?c=2488017405.png" group-title="Italy",ICARO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24880174054972ad3227fa
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ICARO%20TV" tvg-name="ICARO%20TV" tvg-chno="249" tvg-logo="" group-title="Italy",ICARO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2392139008947764078821
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="INTER%20TV" tvg-name="INTER%20TV" tvg-chno="250" tvg-logo="https://logo.huhu.to/logo?c=2973773076.png" group-title="Italy",INTER TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29737730766a27b9a63e21
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ITALIA%203" tvg-name="ITALIA%203" tvg-chno="251" tvg-logo="" group-title="Italy",ITALIA 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1200985239ceccd12c8a54
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ITALIAN%20FISHING%20TV" tvg-name="ITALIAN%20FISHING%20TV" tvg-chno="252" tvg-logo="https://logo.huhu.to/logo?c=4235410936.png" group-title="Italy",ITALIAN FISHING TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4235410936b108b39c28d1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ITALIAN%20FISHING%20TV" tvg-name="ITALIAN%20FISHING%20TV" tvg-chno="253" tvg-logo="" group-title="Italy",ITALIAN FISHING TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F477083716dc642d622f68
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="IUNIOR%20TV" tvg-name="IUNIOR%20TV" tvg-chno="254" tvg-logo="https://logo.huhu.to/logo?c=803540254.png" group-title="Italy",IUNIOR TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F803540254d5a6317673b3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="KISS%20KISS" tvg-name="KISS%20KISS" tvg-chno="255" tvg-logo="https://logo.huhu.to/logo?c=950030926.png" group-title="Italy",KISS KISS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F950030926076b5f56ce77
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="KISS%20KISS" tvg-name="KISS%20KISS" tvg-chno="256" tvg-logo="" group-title="Italy",KISS KISS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38157267494d3060cf955b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="KISS%20KISS%20ITALIA" tvg-name="KISS%20KISS%20ITALIA" tvg-chno="257" tvg-logo="https://logo.huhu.to/logo?c=1370869299.png" group-title="Italy",KISS KISS ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F13708692992eeb9b07f00d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="KISS%20KISS%20NAPOLI" tvg-name="KISS%20KISS%20NAPOLI" tvg-chno="258" tvg-logo="https://logo.huhu.to/logo?c=3027903278.png" group-title="Italy",KISS KISS NAPOLI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30279032788f9f7870557e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%205" tvg-name="LA%205" tvg-chno="259" tvg-logo="https://logo.huhu.to/logo?c=84139639.png" group-title="Italy",LA 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F84139639718d779a091b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%205" tvg-name="LA%205" tvg-chno="260" tvg-logo="" group-title="Italy",LA 5
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14256673753de6371f2c50
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%207" tvg-name="LA%207" tvg-chno="261" tvg-logo="https://logo.huhu.to/logo?c=2143522071.png" group-title="Italy",LA 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2143522071cfa887e2feb3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%207" tvg-name="LA%207" tvg-chno="262" tvg-logo="" group-title="Italy",LA 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F7755300630832713e7adb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%207%20D" tvg-name="LA%207%20D" tvg-chno="263" tvg-logo="https://logo.huhu.to/logo?c=881846038.png" group-title="Italy",LA 7 D
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F881846038948178d71a68
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%20C%20ONAIR" tvg-name="LA%20C%20ONAIR" tvg-chno="264" tvg-logo="https://logo.huhu.to/logo?c=1533131501.png" group-title="Italy",LA C ONAIR
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1533131501702a3c9003d0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%20C%20TV" tvg-name="LA%20C%20TV" tvg-chno="265" tvg-logo="https://logo.huhu.to/logo?c=660106690.png" group-title="Italy",LA C TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F660106690dcbddcc34747
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%20NUOVA%20TV" tvg-name="LA%20NUOVA%20TV" tvg-chno="266" tvg-logo="https://logo.huhu.to/logo?c=3894526183.png" group-title="Italy",LA NUOVA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3894526183af41b9b1aebc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LA%20TR3" tvg-name="LA%20TR3" tvg-chno="267" tvg-logo="https://logo.huhu.to/logo?c=2210996603.png" group-title="Italy",LA TR3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22109966031d6de269f9b8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LAZIO%20TV%2013" tvg-name="LAZIO%20TV%2013" tvg-chno="268" tvg-logo="https://logo.huhu.to/logo?c=566527512.png" group-title="Italy",LAZIO TV 13
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F56652751299dc0b400d5c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LIRA%20TV" tvg-name="LIRA%20TV" tvg-chno="269" tvg-logo="https://logo.huhu.to/logo?c=2835333400.png" group-title="Italy",LIRA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2835333400f831a30ce568
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="LOVE%20FM%20TV" tvg-name="LOVE%20FM%20TV" tvg-chno="270" tvg-logo="" group-title="Italy",LOVE FM TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3344963942d5b8b48cdfe0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="M2O" tvg-name="M2O" tvg-chno="271" tvg-logo="https://logo.huhu.to/logo?c=215827632.png" group-title="Italy",M2O
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F215827632715f84c8de94
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MARIA%2BVISION" tvg-name="MARIA%2BVISION" tvg-chno="272" tvg-logo="https://logo.huhu.to/logo?c=448530931.png" group-title="Italy",MARIA+VISION
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F448530931a02141cb37b2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%201" tvg-name="MEDIASET%201" tvg-chno="273" tvg-logo="" group-title="Italy",MEDIASET 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F633342961994dc5083ad5
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%2020" tvg-name="MEDIASET%2020" tvg-chno="274" tvg-logo="" group-title="Italy",MEDIASET 20
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313448120145a6443975e1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MEDIASET%20ITALIA" tvg-name="MEDIASET%20ITALIA" tvg-chno="275" tvg-logo="https://logo.huhu.to/logo?c=1989562337.png" group-title="Italy",MEDIASET ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F198956233782673579c94b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MILAN%20TV" tvg-name="MILAN%20TV" tvg-chno="276" tvg-logo="https://logo.huhu.to/logo?c=3657217948.png" group-title="Italy",MILAN TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36572179483992957fcd47
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MOTORTREND" tvg-name="MOTORTREND" tvg-chno="277" tvg-logo="https://logo.huhu.to/logo?c=3758728323.png" group-title="Italy",MOTORTREND
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F375872832303fd120c6f38
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NAT%20GEO" tvg-name="NAT%20GEO" tvg-chno="278" tvg-logo="https://logo.huhu.to/logo?c=1735702308.png" group-title="Italy",NAT GEO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1735702308f63b4637e8ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NAT%20GEO" tvg-name="NAT%20GEO" tvg-chno="279" tvg-logo="" group-title="Italy",NAT GEO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F179844839442a5ed454fe
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NAT%20GEO%20WILD" tvg-name="NAT%20GEO%20WILD" tvg-chno="280" tvg-logo="https://logo.huhu.to/logo?c=3428501495.png" group-title="Italy",NAT GEO WILD
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3428501495a9ec2ff7bc8e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NICK%20JR" tvg-name="NICK%20JR" tvg-chno="281" tvg-logo="https://logo.huhu.to/logo?c=380958472.png" group-title="Italy",NICK JR
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38095847274e645e8a065
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-chno="282" tvg-logo="https://logo.huhu.to/logo?c=3039389215.png" group-title="Italy",NICKELODEON
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30393892159798f5cebb7c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="OL3%20RADIO" tvg-name="OL3%20RADIO" tvg-chno="283" tvg-logo="https://logo.huhu.to/logo?c=68102734.png" group-title="Italy",OL3 RADIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F681027341f93934e0bc5
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ONDA%20NOVARA%20TV" tvg-name="ONDA%20NOVARA%20TV" tvg-chno="284" tvg-logo="https://logo.huhu.to/logo?c=3134124967.png" group-title="Italy",ONDA NOVARA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3134124967ad7ac6cb62f9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ONDA%20TV" tvg-name="ONDA%20TV" tvg-chno="285" tvg-logo="https://logo.huhu.to/logo?c=203130779.png" group-title="Italy",ONDA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20313077935c332de29e9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ONDA%20TV" tvg-name="ONDA%20TV" tvg-chno="286" tvg-logo="" group-title="Italy",ONDA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1641481816a8a66ad9baf6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ORLER%20TV" tvg-name="ORLER%20TV" tvg-chno="287" tvg-logo="https://logo.huhu.to/logo?c=3471319012.png" group-title="Italy",ORLER TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3471319012d308ec0dc636
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PADRE%20PIO%20TV" tvg-name="PADRE%20PIO%20TV" tvg-chno="288" tvg-logo="https://logo.huhu.to/logo?c=435016866.png" group-title="Italy",PADRE PIO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F43501686619a1a53c7d14
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PAROLE%20DI%20VITA" tvg-name="PAROLE%20DI%20VITA" tvg-chno="289" tvg-logo="https://logo.huhu.to/logo?c=1727695336.png" group-title="Italy",PAROLE DI VITA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1727695336cf48b92b7314
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PEER%20TV%20ALTO%20ADIGE" tvg-name="PEER%20TV%20ALTO%20ADIGE" tvg-chno="290" tvg-logo="" group-title="Italy",PEER TV ALTO ADIGE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17895220057515b249c059
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PEOPLE%20ARE%20AWESOME" tvg-name="PEOPLE%20ARE%20AWESOME" tvg-chno="291" tvg-logo="" group-title="Italy",PEOPLE ARE AWESOME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1087345241c8751e395263
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-chno="292" tvg-logo="https://logo.huhu.to/logo?c=714472867.png" group-title="Italy",PESCA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F714472867a9a9547f329c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PESCA%20E%20CACCIA" tvg-name="PESCA%20E%20CACCIA" tvg-chno="293" tvg-logo="" group-title="Italy",PESCA E CACCIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F312451299385241b4e7078
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PREMIUM%20CRIME" tvg-name="PREMIUM%20CRIME" tvg-chno="294" tvg-logo="" group-title="Italy",PREMIUM CRIME
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F444768053e397c96fc6df
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PRIMO%20CANALE" tvg-name="PRIMO%20CANALE" tvg-chno="295" tvg-logo="" group-title="Italy",PRIMO CANALE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3497884599a7fdd17618d9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="PRIMOCANALE" tvg-name="PRIMOCANALE" tvg-chno="296" tvg-logo="https://logo.huhu.to/logo?c=2944239261.png" group-title="Italy",PRIMOCANALE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2944239261b7c6547b7641
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="QUARTA%20RETE" tvg-name="QUARTA%20RETE" tvg-chno="297" tvg-logo="" group-title="Italy",QUARTA RETE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F280418908527b8c8187a0b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-chno="298" tvg-logo="" group-title="Italy",QVC
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2952884641015b63f29238
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="QVC%20ITALIA" tvg-name="QVC%20ITALIA" tvg-chno="299" tvg-logo="https://logo.huhu.to/logo?c=1232565681.png" group-title="Italy",QVC ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12325656817eefaf17ef24
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RADIO%2051" tvg-name="RADIO%2051" tvg-chno="300" tvg-logo="" group-title="Italy",RADIO 51
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F233974719353ecd6eb8de1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RADIO%20CAPITAL" tvg-name="RADIO%20CAPITAL" tvg-chno="301" tvg-logo="" group-title="Italy",RADIO CAPITAL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4214417458dc0729ae47d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RADIO%20FRECCIA" tvg-name="RADIO%20FRECCIA" tvg-chno="302" tvg-logo="" group-title="Italy",RADIO FRECCIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1711134994a4ab3e165de3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RADIONORBA%20TV" tvg-name="RADIONORBA%20TV" tvg-chno="303" tvg-logo="https://logo.huhu.to/logo?c=2627662768.png" group-title="Italy",RADIONORBA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26276627684bd1fbc5cb29
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20SCUOLA" tvg-name="RAI%20SCUOLA" tvg-chno="304" tvg-logo="https://logo.huhu.to/logo?c=2007798511.png" group-title="Italy",RAI SCUOLA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20077985117d0ff1cfe128
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAI%20SCUOLA" tvg-name="RAI%20SCUOLA" tvg-chno="305" tvg-logo="" group-title="Italy",RAI SCUOLA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1886684667a4cfd0e271d1
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RDS%20SOCIAL" tvg-name="RDS%20SOCIAL" tvg-chno="306" tvg-logo="" group-title="Italy",RDS SOCIAL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4031388312f5ebcfc7dc6d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RDS%20SOCIAL%20TV" tvg-name="RDS%20SOCIAL%20TV" tvg-chno="307" tvg-logo="https://logo.huhu.to/logo?c=3656080408.png" group-title="Italy",RDS SOCIAL TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36560804080912cdf76cbf
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="REGGIO%20TV" tvg-name="REGGIO%20TV" tvg-chno="308" tvg-logo="https://logo.huhu.to/logo?c=2165549789.png" group-title="Italy",REGGIO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F216554978929adb39fe170
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="REI%20TV" tvg-name="REI%20TV" tvg-chno="309" tvg-logo="https://logo.huhu.to/logo?c=3075118500.png" group-title="Italy",REI TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3075118500c67364486aa6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%208" tvg-name="RETE%208" tvg-chno="310" tvg-logo="https://logo.huhu.to/logo?c=1070290151.png" group-title="Italy",RETE 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1070290151a2161042a11a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%20ORO" tvg-name="RETE%20ORO" tvg-chno="311" tvg-logo="https://logo.huhu.to/logo?c=3351863213.png" group-title="Italy",RETE ORO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3351863213ae83540f4e1e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%20TV%20ITALIA" tvg-name="RETE%20TV%20ITALIA" tvg-chno="312" tvg-logo="https://logo.huhu.to/logo?c=4131055018.png" group-title="Italy",RETE TV ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F413105501853266fc8e1b9
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETE%20VENETA" tvg-name="RETE%20VENETA" tvg-chno="313" tvg-logo="https://logo.huhu.to/logo?c=1085172353.png" group-title="Italy",RETE VENETA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10851723533da93b5683eb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RETEBIELLA%20TV" tvg-name="RETEBIELLA%20TV" tvg-chno="314" tvg-logo="https://logo.huhu.to/logo?c=109447913.png" group-title="Italy",RETEBIELLA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10944791346b08a647fce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RMC%20101" tvg-name="RMC%20101" tvg-chno="315" tvg-logo="https://logo.huhu.to/logo?c=2209352147.png" group-title="Italy",RMC 101
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2209352147379c000ac415
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTC%20TELECALABRIA" tvg-name="RTC%20TELECALABRIA" tvg-chno="316" tvg-logo="https://logo.huhu.to/logo?c=639406775.png" group-title="Italy",RTC TELECALABRIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F639406775e0288e6772cc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTM%20TV" tvg-name="RTM%20TV" tvg-chno="317" tvg-logo="https://logo.huhu.to/logo?c=2294009196.png" group-title="Italy",RTM TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2294009196bff728f2a31e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-chno="318" tvg-logo="https://logo.huhu.to/logo?c=4136045815.png" group-title="Italy",RTP
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4136045815a19e851236a3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTR%2099%20TV" tvg-name="RTR%2099%20TV" tvg-chno="319" tvg-logo="https://logo.huhu.to/logo?c=1621632780.png" group-title="Italy",RTR 99 TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1621632780775ff4ee8846
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTTR" tvg-name="RTTR" tvg-chno="320" tvg-logo="https://logo.huhu.to/logo?c=3799362189.png" group-title="Italy",RTTR
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3799362189218b541a9c76
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTTR%20TV" tvg-name="RTTR%20TV" tvg-chno="321" tvg-logo="" group-title="Italy",RTTR TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F179187969291f776663d1e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RTV%20SAN%20MARINO" tvg-name="RTV%20SAN%20MARINO" tvg-chno="322" tvg-logo="" group-title="Italy",RTV SAN MARINO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2343767125eb4977361e91
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SAN%20MARINO%20RTV" tvg-name="SAN%20MARINO%20RTV" tvg-chno="323" tvg-logo="https://logo.huhu.to/logo?c=968665235.png" group-title="Italy",SAN MARINO RTV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F968665235fe574bf09dcb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SENATO%20TV" tvg-name="SENATO%20TV" tvg-chno="324" tvg-logo="https://logo.huhu.to/logo?c=2002360508.png" group-title="Italy",SENATO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2002360508ebbced695f3c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SENATO%20TV" tvg-name="SENATO%20TV" tvg-chno="325" tvg-logo="" group-title="Italy",SENATO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28955495519a6e882c3db3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SPORT%20ITALIA" tvg-name="SPORT%20ITALIA" tvg-chno="326" tvg-logo="" group-title="Italy",SPORT ITALIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F288173992763b00e6fdc82
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SPORT%20ITALIA%20SOLO%20CALCIO" tvg-name="SPORT%20ITALIA%20SOLO%20CALCIO" tvg-chno="327" tvg-logo="" group-title="Italy",SPORT ITALIA SOLO CALCIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F83094948658201829f87a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SPORTITALIA%20PLUS" tvg-name="SPORTITALIA%20PLUS" tvg-chno="328" tvg-logo="https://logo.huhu.to/logo?c=3342849313.png" group-title="Italy",SPORTITALIA PLUS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33428493134b007f2ed197
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SPORTITALIA%20SOLOCALCIO" tvg-name="SPORTITALIA%20SOLOCALCIO" tvg-chno="329" tvg-logo="" group-title="Italy",SPORTITALIA SOLOCALCIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21984103395cacdfaf1d34
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="ST%20EUROPE%20CHANNEL" tvg-name="ST%20EUROPE%20CHANNEL" tvg-chno="330" tvg-logo="https://logo.huhu.to/logo?c=2356295928.png" group-title="Italy",ST EUROPE CHANNEL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2356295928676bcb269bb3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="STAR%20CHANNEL" tvg-name="STAR%20CHANNEL" tvg-chno="331" tvg-logo="" group-title="Italy",STAR CHANNEL
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F323779351103799e6e03b2
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="STEREO%205%20TV" tvg-name="STEREO%205%20TV" tvg-chno="332" tvg-logo="https://logo.huhu.to/logo?c=88205050.png" group-title="Italy",STEREO 5 TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F88205050e85664590a6b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%20TENNIS" tvg-name="SUPER%20TENNIS" tvg-chno="333" tvg-logo="https://logo.huhu.to/logo?c=3213195143.png" group-title="Italy",SUPER TENNIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3213195143c3be65cec024
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%20TENNIS" tvg-name="SUPER%20TENNIS" tvg-chno="334" tvg-logo="" group-title="Italy",SUPER TENNIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300937751365646200d097
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%20TV%20ARISTANIS" tvg-name="SUPER%20TV%20ARISTANIS" tvg-chno="335" tvg-logo="https://logo.huhu.to/logo?c=11653719.png" group-title="Italy",SUPER TV ARISTANIS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11653719d8ef305a8c92
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPER%20TV%20BRESCIA" tvg-name="SUPER%20TV%20BRESCIA" tvg-chno="336" tvg-logo="https://logo.huhu.to/logo?c=2061826034.png" group-title="Italy",SUPER TV BRESCIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2061826034c5ac3b5d7306
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SUPERSIX%20LOMBARDIA" tvg-name="SUPERSIX%20LOMBARDIA" tvg-chno="337" tvg-logo="https://logo.huhu.to/logo?c=849124464.png" group-title="Italy",SUPERSIX LOMBARDIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8491244640295fc9ea282
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20ABRUZZO" tvg-name="TELE%20ABRUZZO" tvg-chno="338" tvg-logo="" group-title="Italy",TELE ABRUZZO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16683935829997b8a7bc92
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20CHIARA" tvg-name="TELE%20CHIARA" tvg-chno="339" tvg-logo="https://logo.huhu.to/logo?c=2487986216.png" group-title="Italy",TELE CHIARA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2487986216af30aedb116a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20CHIARA" tvg-name="TELE%20CHIARA" tvg-chno="340" tvg-logo="" group-title="Italy",TELE CHIARA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2521825076452ac13ce197
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20FRIULI" tvg-name="TELE%20FRIULI" tvg-chno="341" tvg-logo="" group-title="Italy",TELE FRIULI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35518823447060ba68f520
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20LIGURIA%20SUD" tvg-name="TELE%20LIGURIA%20SUD" tvg-chno="342" tvg-logo="https://logo.huhu.to/logo?c=874797181.png" group-title="Italy",TELE LIGURIA SUD
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F87479718111853618b3cd
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20PAVIA" tvg-name="TELE%20PAVIA" tvg-chno="343" tvg-logo="https://logo.huhu.to/logo?c=616483317.png" group-title="Italy",TELE PAVIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6164833177424547eff1f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20TRICOLORE" tvg-name="TELE%20TRICOLORE" tvg-chno="344" tvg-logo="" group-title="Italy",TELE TRICOLORE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2314613216d218b9f4abd4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELE%20TUSCIASABINA%202000" tvg-name="TELE%20TUSCIASABINA%202000" tvg-chno="345" tvg-logo="https://logo.huhu.to/logo?c=545707096.png" group-title="Italy",TELE TUSCIASABINA 2000
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F545707096d82d839e8210
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEARENA" tvg-name="TELEARENA" tvg-chno="346" tvg-logo="https://logo.huhu.to/logo?c=4081561014.png" group-title="Italy",TELEARENA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F408156101494ee7f98efdd
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEARTE" tvg-name="TELEARTE" tvg-chno="347" tvg-logo="https://logo.huhu.to/logo?c=2586615238.png" group-title="Italy",TELEARTE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2586615238c67a91af5daa
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEBARI" tvg-name="TELEBARI" tvg-chno="348" tvg-logo="https://logo.huhu.to/logo?c=1362891370.png" group-title="Italy",TELEBARI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F136289137055b8afba310b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEBELLUNO" tvg-name="TELEBELLUNO" tvg-chno="349" tvg-logo="https://logo.huhu.to/logo?c=3696520354.png" group-title="Italy",TELEBELLUNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3696520354663b7a8a1b38
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEBOARIO" tvg-name="TELEBOARIO" tvg-chno="350" tvg-logo="https://logo.huhu.to/logo?c=3383364202.png" group-title="Italy",TELEBOARIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F338336420207ccf0ade90b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELECITTA" tvg-name="TELECITTA" tvg-chno="351" tvg-logo="https://logo.huhu.to/logo?c=2676235978.png" group-title="Italy",TELECITTA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F267623597867e1040d0574
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELECOLOR" tvg-name="TELECOLOR" tvg-chno="352" tvg-logo="https://logo.huhu.to/logo?c=1133239022.png" group-title="Italy",TELECOLOR
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1133239022f5df6ba1ba0a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEFOGGIA" tvg-name="TELEFOGGIA" tvg-chno="353" tvg-logo="https://logo.huhu.to/logo?c=2365107871.png" group-title="Italy",TELEFOGGIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2365107871d881ed0d7a81
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEMANTOVA" tvg-name="TELEMANTOVA" tvg-chno="354" tvg-logo="https://logo.huhu.to/logo?c=1425327889.png" group-title="Italy",TELEMANTOVA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14253278894ad29279077a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEMIA" tvg-name="TELEMIA" tvg-chno="355" tvg-logo="https://logo.huhu.to/logo?c=3243762931.png" group-title="Italy",TELEMIA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32437629310acfa61179b0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEMISTRETTA" tvg-name="TELEMISTRETTA" tvg-chno="356" tvg-logo="https://logo.huhu.to/logo?c=1438440507.png" group-title="Italy",TELEMISTRETTA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F14384405078009392cf5c8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEMOLISE" tvg-name="TELEMOLISE" tvg-chno="357" tvg-logo="https://logo.huhu.to/logo?c=780186974.png" group-title="Italy",TELEMOLISE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F780186974728e73711da8
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELENORD" tvg-name="TELENORD" tvg-chno="358" tvg-logo="https://logo.huhu.to/logo?c=2923215049.png" group-title="Italy",TELENORD
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2923215049219f1039e542
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEPACE%201" tvg-name="TELEPACE%201" tvg-chno="359" tvg-logo="https://logo.huhu.to/logo?c=2876646700.png" group-title="Italy",TELEPACE 1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28766467002afd747d5523
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEPACE%202" tvg-name="TELEPACE%202" tvg-chno="360" tvg-logo="https://logo.huhu.to/logo?c=3973472252.png" group-title="Italy",TELEPACE 2
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3973472252e684fd2d0acb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEPACE%203" tvg-name="TELEPACE%203" tvg-chno="361" tvg-logo="https://logo.huhu.to/logo?c=3518395980.png" group-title="Italy",TELEPACE 3
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3518395980216546f5452a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEPACE%204" tvg-name="TELEPACE%204" tvg-chno="362" tvg-logo="https://logo.huhu.to/logo?c=1670818396.png" group-title="Italy",TELEPACE 4
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1670818396815a6c065dd0
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEPACE%20TRENTO" tvg-name="TELEPACE%20TRENTO" tvg-chno="363" tvg-logo="" group-title="Italy",TELEPACE TRENTO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1794299695413e7553c574
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEQUATTRO" tvg-name="TELEQUATTRO" tvg-chno="364" tvg-logo="https://logo.huhu.to/logo?c=1083984669.png" group-title="Italy",TELEQUATTRO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10839846696ddb422bcd88
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELERAMA" tvg-name="TELERAMA" tvg-chno="365" tvg-logo="https://logo.huhu.to/logo?c=4017608910.png" group-title="Italy",TELERAMA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4017608910fce4d0302c20
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELEROMAGNA" tvg-name="TELEROMAGNA" tvg-chno="366" tvg-logo="" group-title="Italy",TELEROMAGNA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F279439224488ada9f3a1b3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELESIRIO" tvg-name="TELESIRIO" tvg-chno="367" tvg-logo="https://logo.huhu.to/logo?c=1357694629.png" group-title="Italy",TELESIRIO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1357694629b32c792b6337
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELESPAZIO%20TV" tvg-name="TELESPAZIO%20TV" tvg-chno="368" tvg-logo="https://logo.huhu.to/logo?c=386765643.png" group-title="Italy",TELESPAZIO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38676564387b48bdb05ad
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELETRICOLORE" tvg-name="TELETRICOLORE" tvg-chno="369" tvg-logo="https://logo.huhu.to/logo?c=2521763009.png" group-title="Italy",TELETRICOLORE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2521763009f0e0ef1051a6
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TELETUTTO" tvg-name="TELETUTTO" tvg-chno="370" tvg-logo="https://logo.huhu.to/logo?c=3271666551.png" group-title="Italy",TELETUTTO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3271666551331132c8bfab
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TG%20COM%2024" tvg-name="TG%20COM%2024" tvg-chno="371" tvg-logo="" group-title="Italy",TG COM 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1785098768e3514b1dbecc
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TG%20NORBA%2024" tvg-name="TG%20NORBA%2024" tvg-chno="372" tvg-logo="https://logo.huhu.to/logo?c=3379729817.png" group-title="Italy",TG NORBA 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33797298178cac7afa180a
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TG%20NORBA%2024" tvg-name="TG%20NORBA%2024" tvg-chno="373" tvg-logo="" group-title="Italy",TG NORBA 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3413557893b1ed86e5018c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TGCOM%2024" tvg-name="TGCOM%2024" tvg-chno="374" tvg-logo="https://logo.huhu.to/logo?c=2418148449.png" group-title="Italy",TGCOM 24
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24181484494b43d448b066
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TRENTINO%20TV" tvg-name="TRENTINO%20TV" tvg-chno="375" tvg-logo="https://logo.huhu.to/logo?c=2764553737.png" group-title="Italy",TRENTINO TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2764553737f817b6d4f583
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TRSPORT" tvg-name="TRSPORT" tvg-chno="376" tvg-logo="" group-title="Italy",TRSPORT
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3613140620a139097e4b5
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%202000" tvg-name="TV%202000" tvg-chno="377" tvg-logo="https://logo.huhu.to/logo?c=1949044924.png" group-title="Italy",TV 2000
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1949044924a6c217960c23
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%208" tvg-name="TV%208" tvg-chno="378" tvg-logo="https://logo.huhu.to/logo?c=4038365720.png" group-title="Italy",TV 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F40383657201f43ce81681d
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%208" tvg-name="TV%208" tvg-chno="379" tvg-logo="" group-title="Italy",TV 8
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2706291008928411daf9bb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%20LUNA" tvg-name="TV%20LUNA" tvg-chno="380" tvg-logo="https://logo.huhu.to/logo?c=3789706642.png" group-title="Italy",TV LUNA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37897066429b9ef63bb97c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%20QUI" tvg-name="TV%20QUI" tvg-chno="381" tvg-logo="https://logo.huhu.to/logo?c=2202937518.png" group-title="Italy",TV QUI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F220293751865cbdd1866be
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV%20QUI" tvg-name="TV%20QUI" tvg-chno="382" tvg-logo="" group-title="Italy",TV QUI
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3845119578fb3b0c0d1832
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV7%20NEWS" tvg-name="TV7%20NEWS" tvg-chno="383" tvg-logo="" group-title="Italy",TV7 NEWS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28023290645ecbd632b9ce
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TVA%20VICENZA" tvg-name="TVA%20VICENZA" tvg-chno="384" tvg-logo="https://logo.huhu.to/logo?c=3071392662.png" group-title="Italy",TVA VICENZA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3071392662a754d82b0840
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TVA%20VICENZA" tvg-name="TVA%20VICENZA" tvg-chno="385" tvg-logo="" group-title="Italy",TVA VICENZA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3038112906ea7474420e4b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TVRS" tvg-name="TVRS" tvg-chno="386" tvg-logo="" group-title="Italy",TVRS
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F148874663839cdbe9a2d7e
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="UMBRIA%20TV" tvg-name="UMBRIA%20TV" tvg-chno="387" tvg-logo="https://logo.huhu.to/logo?c=1597386407.png" group-title="Italy",UMBRIA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1597386407952db649a6ca
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="UMBRIA%20TV" tvg-name="UMBRIA%20TV" tvg-chno="388" tvg-logo="" group-title="Italy",UMBRIA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2230919796f4c4a3b6f393
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="UNINETTUNO" tvg-name="UNINETTUNO" tvg-chno="389" tvg-logo="" group-title="Italy",UNINETTUNO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F797328723f4292436afc4
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="UNINETTUNO%20UNIVERSITY%20TV" tvg-name="UNINETTUNO%20UNIVERSITY%20TV" tvg-chno="390" tvg-logo="https://logo.huhu.to/logo?c=376550441.png" group-title="Italy",UNINETTUNO UNIVERSITY TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3765504418d7a4047993c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VCO%20AZZURRA%20TV" tvg-name="VCO%20AZZURRA%20TV" tvg-chno="391" tvg-logo="https://logo.huhu.to/logo?c=2070070755.png" group-title="Italy",VCO AZZURRA TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20700707550e841728d807
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-chno="392" tvg-logo="https://logo.huhu.to/logo?c=2237660301.png" group-title="Italy",VH1
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22376603018e09f8150d84
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEO%20NOVARA" tvg-name="VIDEO%20NOVARA" tvg-chno="393" tvg-logo="https://logo.huhu.to/logo?c=2791781421.png" group-title="Italy",VIDEO NOVARA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F27917814213e17be842a1b
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEOLINA" tvg-name="VIDEOLINA" tvg-chno="394" tvg-logo="https://logo.huhu.to/logo?c=1249978054.png" group-title="Italy",VIDEOLINA
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1249978054d9101729f51f
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEOSTAR%20TV" tvg-name="VIDEOSTAR%20TV" tvg-chno="395" tvg-logo="https://logo.huhu.to/logo?c=2499488584.png" group-title="Italy",VIDEOSTAR TV
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24994885846c204e8b0b86
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEOTOLENTINO" tvg-name="VIDEOTOLENTINO" tvg-chno="396" tvg-logo="https://logo.huhu.to/logo?c=2015312510.png" group-title="Italy",VIDEOTOLENTINO
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F201531251001a1e9936f4c
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="YU-GI-OH%21%20ITALY" tvg-name="YU-GI-OH%21%20ITALY" tvg-chno="397" tvg-logo="" group-title="Italy",YU-GI-OH! ITALY
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28498110272b8770fe20cb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="%C3%88TV%20MARCHE" tvg-name="%C3%88TV%20MARCHE" tvg-chno="398" tvg-logo="https://logo.huhu.to/logo?c=3069499316.png" group-title="Italy",ÈTV MARCHE
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3069499316a3427a69a204
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="%C3%88TV%20RETE%207" tvg-name="%C3%88TV%20RETE%207" tvg-chno="399" tvg-logo="https://logo.huhu.to/logo?c=4290207480.png" group-title="Italy",ÈTV RETE 7
+https://vavoo-resolver.mic-deangelis.workers.dev/resolve?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4290207480cc160e91f9bb
