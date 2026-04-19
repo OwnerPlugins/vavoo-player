@@ -1,4 +1,8 @@
-# 📺 Vavoo IPTV Playlist Generator
+<h1 align="center">📺 Vavoo IPTV Playlist Generator</h1>
+
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
 
 > [!WARNING]
 > This project is for **educational and informational purposes only**. The author assumes no responsibility for any misuse. By using this software, you agree to comply with all applicable laws and regulations in your jurisdiction.
