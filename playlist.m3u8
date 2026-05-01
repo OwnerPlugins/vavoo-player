@@ -519,9 +519,6 @@ https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://logo.huhu.to/logo?c=2890008905.png" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
 https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://logo.huhu.to/logo?c=1820997555.png" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
