@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="none" generator-info-url="none">
   <channel id="100%.NL.TV.nl">
     <display-name lang="nl">100% NL TV</display-name>
     <icon src="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000133_019271/channelLogo?type=channel" />
